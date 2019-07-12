@@ -1,0 +1,594 @@
+CustCode	Name	Date of Birth	Postcode	Validuntil
+C1024Sydn	Nouras Arjun Kearney	15/09/1962	2049	
+C1025Sydn	Liang Stuart Kearney	11/03/1993	2185	
+C1029Sydn	Nishant Sigit Kee	23/04/1994	2058	
+C1033Sydn	Urmila Mulki Kei	3/01/1969	2001	
+C1038Sydn	John Phoa Kei	24/04/1997	2128	
+C1041Sydn	Maithm Entwisle Kei	26/01/1998	2013	
+C1048Sydn	Yenny Tsun Keith	10/01/1988	2064	
+C105Sydn	Humza Lu Barnes	15/04/1989	2132	
+C1075Sydn	Stephanie Kei Khoo	13/09/1988	2073	
+C1076Sydn	Nathalia Yeung Ki	3/01/1999	2208	
+C1077Sydn	Helena Yin Ki	1/09/1956	2024	
+C1078Sydn	Janine Dian Ki	4/07/1952	2144	
+C1081Sydn	Zheng Russell King	13/03/1953	2182	
+C1085Sydn	Ting Silviana Kiong	19/02/1997	2190	
+C1092Sydn	Chak Cheng Kiong	18/02/1981	2162	
+C1099Sydn	Chengyang Afizi Koay	10/02/1959	2084	
+C1128Sydn	Lily Wang Kuek	17/09/1964	2130	
+C1129Sydn	Jiten Du Kuek	27/10/1969	2156	
+C1132Sydn	Yichen Chandra Kurniawan	1/05/1982	2123	
+C1136Sydn	Thai Troy Kurniawan	24/09/1952	2181	
+C1144Sydn	Chong Suliman Kwai	21/01/1968	2094	
+C1151Sydn	Brett Wu La	5/06/2000	2185	
+C1178Sydn	Tze Francisco Lam	22/10/1998	2059	
+C1179Sydn	Eka Sacks Law	5/09/1978	2132	
+C1180Sydn	Chak Loong Koay	20/10/1966	2149	26/10/2016
+C1180Sydn	Chak Loong Koay	20/10/1966	2126	
+C1184Sydn	Xingda Man Lau	3/08/1973	2166	
+C1188Sydn	Jamie Lian Law	22/12/1979	2021	
+C1196Sydn	Bo-Youn King Law	4/03/1997	2189	
+C1202Sydn	Amul Nicholas Le	29/06/1982	2187	
+C1231Sydn	Sarah Kaur Lee	26/10/1957	2160	
+C1232Sydn	Hong-Lim Yave Lee	2/02/1968	2184	
+C1236Sydn	Jessica Wing-Chi Lee	14/10/1971	2109	
+C1240Sydn	Kathleen Lian Lee	22/06/1961	2137	
+C1248Sydn	Miu Singh Lee	21/06/1952	2068	
+C1255Sydn	Simon Widjaya Leon	11/05/1954	2061	
+C1281Sydn	Kita Anne Li	10/03/1972	2100	
+C1282Sydn	Fangren Bryce Li	31/03/1998	2106	
+C1283Sydn	Lay Lin Li	11/11/1970	2023	
+C1284Sydn	Samathara Loo Li	26/01/2000	2034	
+C1288Sydn	Hani Bernadette Li	30/01/1989	2188	
+C1292Sydn	Jenny Dian Li	9/10/1997	2002	
+C1300Sydn	Nancy Irawan Li	24/03/1951	2061	
+C1307Sydn	Cheryl Eddes Li	29/05/1983	2018	
+C132Sydn	Ping Chiat Bensted	18/04/1989	2174	
+C1336Sydn	Dewi Yu Lim	19/04/1963	2155	
+C1337Sydn	Nancy Ma Lim	22/08/1961	2122	
+C133Sydn	Paul Kumar Birleson	8/05/1954	2039	
+C1341Sydn	Ee Wah Lim	27/08/1953	2067	
+C1345Sydn	Pablo King Lim	18/05/1972	2204	
+C134Sydn	Chao-Chih Loh Bhoot	16/05/1982	2105	
+C1353Sydn	Chun Kang Lin	24/04/1983	2175	
+C135Sydn	Chenguang Kaimakamis Blake	29/11/1998	2108	
+C1360Sydn	Eric Hooi Lisa	17/09/1973	2055	
+C1387Sydn	Bing Abdusebur Lopez	12/08/1999	2118	
+C1388Sydn	Elizabeth Alexander Lok	20/05/1958	2191	
+C1389Sydn	Kenneth Yu-Wen Low	3/03/1997	2069	
+C1390Sydn	Pongphat Li Lok	15/03/1962	2044	
+C1394Sydn	Zhanibek Green Lowry	20/01/1985	2018	
+C1398Sydn	Cheuk Yein Loo	28/09/1999	2202	
+C139Sydn	Samant Achamma Birleson	2/06/1991	2069	
+C1406Sydn	Nicholas Rodney Lucy	27/04/1998	2203	
+C1413Sydn	Andy Jin Luan	17/06/1973	2055	
+C143Sydn	Patrick Wing Boyce	11/11/1977	2026	
+C1442Sydn	Alex Ling Ma	8/06/1999	2079	
+C1443Sydn	Hong-Lim Hei Maccarone	9/11/1961	2017	
+C1447Sydn	Jaime Arulmugavarathan Maccarone	25/09/1958	2107	
+C1451Sydn	Nathan Wilfrid Macciolli	29/11/1985	2205	
+C1459Sydn	Nathalie Ho Macdonald	17/05/1970	2150	
+C1466Sydn	Fei Maratt Mah	13/08/1993	2113	
+C1493Sydn	Sherly Saa Marucot	23/11/1964	2005	
+C1494Sydn	Jun Wing-See Mathavan	5/02/1947	2155	
+C1495Sydn	Yuen L'Hotellier Mathavan	23/08/1956	2132	
+C1496Sydn	Alicia Robertson Mathavan	25/11/1957	2019	
+C1500Sydn	Tze Castrey Maurice	31/07/1996	2177	
+C1504Sydn	Neha Nicolson McIlroy	19/08/1957	2169	
+C1512Sydn	Bei Melchor Mehl	26/03/1998	2018	
+C1519Sydn	Yu Howe Melin	10/04/1999	2083	
+C151Sydn	Mun Sze Brown	27/10/1967	2003	
+C1548Sydn	Robert Wijewardena Michaelidis	7/09/1967	2122	
+C1549Sydn	Kerry Fitradi Ming	22/07/1996	2094	
+C1553Sydn	Anna Emily Ming	13/06/1965	2181	
+C1557Sydn	Audie Wai Ming	1/05/1986	2087	
+C1565Sydn	Siyi Ong Minh	5/07/1959	2016	
+C1572Sydn	Lillian Xue Mohammad	18/11/1956	2110	
+C1580Sydn	Maria Christopher Lopez	22/08/1974	2153	16/08/2015
+C1580Sydn	Maria Christopher Lopez	22/08/1974	2094	
+C158Sydn	Li Fernanda Cameron	1/04/1981	2078	
+C1598Sydn	Patrick Ho Mordoukhaev	25/11/1989	2007	
+C1599Sydn	Dinni Ng Morris	2/08/1977	2209	
+C1600Sydn	John James Mroue	13/07/1953	2108	
+C1601Sydn	Gonzalo Pan Morris	6/05/1963	2151	
+C1605Sydn	Anisha Widjaja Mukerjee	15/03/1982	2031	
+C1609Sydn	Tianyi Chin Muliawaty	30/08/1987	2087	
+C1617Sydn	Rui Chia Muralidharan	17/11/1976	2029	
+C1624Sydn	Gunawan Collin Murray	19/11/1993	2088	
+C1653Sydn	Blake Sacks Nassar	18/09/1991	2205	
+C1654Sydn	Sally Andrew Nath	17/10/1985	2065	
+C1658Sydn	Wang Henry Nathalia	3/01/1987	2058	
+C1661Sydn	Kun Macdonald Nathalia	10/10/1963	2195	
+C1669Sydn	Jim Leik Nee	2/11/1965	2072	
+C1675Sydn	Yee Chi Nee	29/07/1989	2124	
+C1702Sydn	Chin Jiri Ng	24/12/1960	2042	
+C1703Sydn	Angel Korakis Ng	3/06/2000	2027	
+C1704Sydn	Wenyue Helen Nguyen	16/09/1991	2053	
+C1705Sydn	Gary Renwick Nguyen	4/05/1960	2178	
+C1709Sydn	Kei Loong Nichols	26/05/1952	2077	
+C1713Sydn	Kamia Pur Nguyen	2/02/2000	2192	
+C1721Sydn	Rahul Ho Nguyen	27/03/1949	2144	
+C1728Sydn	Yu-Jen Zenon Ng	17/04/1970	2071	
+C1757Sydn	Blake Johnston Orr	23/09/1959	2110	
+C1758Sydn	Samathara Macciolli Ong	11/09/1994	2021	
+C1762Sydn	Bo-Youn Griffiths Ong	20/06/1950	2175	
+C1766Sydn	Edwin Berlin Pagatpatan	22/04/1974	2116	
+C1774Sydn	James Ma Pagatpatan	3/06/1984	2051	
+C1781Sydn	David Muniz Palaniappan	24/08/1953	2179	
+C1807Sydn	Sean Man Pang	16/04/1959	2060	
+C1808Sydn	Xiaojia Reshma Pei	21/03/1964	2045	
+C1809Sydn	Ankur Perera Pei	22/03/1984	2070	
+C1810Sydn	Nigel Cameron Pilgrim	3/02/1998	2139	
+C1814Sydn	Vyshakh Renato Pei	18/08/1955	2069	
+C1818Sydn	Liangxi A Peng	29/04/2000	2071	
+C1826Sydn	Ming Chan Peter	23/08/1956	2101	
+C1833Sydn	Sree Lin Por	9/04/1997	2038	
+C1862Sydn	Theresa Kistler Puertas	14/05/1987	2188	
+C1863Sydn	Wei Suresh Rao	21/04/1973	2049	
+C1867Sydn	Yee Shane Pong	1/12/1960	2119	
+C186Sydn	Sherin Hoon Castillo	26/10/1997	2092	
+C1871Sydn	Neha John Punnoose	17/07/1986	2199	
+C1879Sydn	Katie Shin Reshma	3/03/1978	2048	
+C187Sydn	Wael Collin Chan	25/01/1969	2128	
+C1886Sydn	Bree Thir Riddle	5/06/1999	2181	
+C1913Sydn	Anita Wenchien Rosa	23/02/1956	2003	
+C1914Sydn	David Loh Regmi	8/06/1995	2084	
+C1915Sydn	Sherin Li Rivera	24/04/1999	2188	
+C1916Sydn	George Tapia Rivera	30/06/1970	2164	
+C191Sydn	Winarto Wong Chan	20/01/1995	2001	
+C1920Sydn	Chao-Chih Renato Sam	31/12/1992	2095	30/11/2017
+C1920Sydn	Chao-Chih Renato Sam	31/12/1992	2144	
+C1923Sydn	Audie Holmes Robertson	4/04/1986	2127	
+C1930Sydn	Liangxi Kei Santos	27/07/1997	2083	13/03/2017
+C1930Sydn	Liangxi Kei Santos	27/07/1997	2193	
+C1937Sydn	Kwet Berlin Sam	10/05/2000	2010	
+C195Sydn	Rakkhi Standfield Castillo	25/02/1956	2129	
+C1966Sydn	Chong Griffiths Samson	8/04/1954	2062	
+C1967Sydn	Hsiao Vongchanh Sau	15/04/1954	2123	
+C1971Sydn	Patrick Duy Samson	3/08/1966	2063	
+C1975Sydn	Arnab David Sau	13/10/1969	2138	
+C1983Sydn	Yee Cook Salinas	22/10/1953	2184	
+C1990Sydn	David Toeng Sehmbi	21/12/1994	2029	
+C2017Sydn	Varesh On Shen	13/09/1952	2084	
+C2018Sydn	Cynthia Heng Sherman	23/10/1999	2205	
+C2019Sydn	Ghislaine Sum Sherman	10/01/1959	2074	
+C2020Sydn	Pou Gayler Sherman	17/09/1967	2167	
+C2024Sydn	James Joowon Shi	8/09/1951	2036	
+C2028Sydn	Glen Wah Shi	10/09/1953	2136	
+C202Sydn	Siu Frederick Chak	20/05/1992	2154	
+C2036Sydn	Xiao Ng Shuen	25/10/1983	2206	
+C2043Sydn	Blake Kian Shukran	22/06/1970	2034	
+C2072Sydn	Ankur Matheu Sidharta	24/11/1959	2160	
+C2073Sydn	David Xuan Soni	21/12/1963	2089	
+C2077Sydn	Stanley Michael So	19/11/1980	2070	
+C2081Sydn	Martin Hei Soesetyo	24/11/1953	2154	
+C2089Sydn	Leo Roy Silva	30/09/1968	2165	
+C2096Sydn	Chris Shahir Stevens	1/04/1999	2114	
+C209Sydn	Ying-Chun Itthianuwat Chakravarti	24/07/1972	2124	
+C2123Sydn	Igor Alexander Tammy	28/03/1994	2015	
+C2124Sydn	Kia James Sucindra	1/08/1986	2020	
+C2125Sydn	Muhamad Phillip Stansfield	22/11/1957	2159	
+C2126Sydn	Huey Luwee Steel	18/05/1954	2027	
+C2130Sydn	David Nicholas Tammy	12/10/1962	2022	
+C2134Sydn	Tai Alberto Stephen	31/01/1955	2000	
+C2142Sydn	Samant Lian Sun	27/12/1975	2135	
+C2149Sydn	Vincent Chung Tandiono	31/03/1955	2152	
+C2178Sydn	Xiaodan Stevens Svensson	9/06/1956	2014	
+C2179Sydn	Chengyang Maria Tan	8/07/1993	2036	
+C2181Sydn	Jessica Andres Tasevski	10/05/1997	2090	
+C2185Sydn	Shuangchao Michael Tasevski	3/06/1970	2073	
+C2193Sydn	Matthew Joowon Tang	5/09/1980	2202	
+C2200Sydn	Shan James Tang	5/10/1977	2112	
+C2227Sydn	Yue Wai Thir	22/04/1953	2178	
+C2228Sydn	Thai Alexander Thir	23/11/1989	2106	
+C2229Sydn	Yu Lambert Thai	11/09/1985	2005	
+C2230Sydn	Maha Leon Thai	27/12/1992	2001	
+C2234Sydn	Chengyang Fan Tham	31/05/1969	2189	
+C2238Sydn	Hannah Man Tham	18/08/1973	2166	
+C2246Sydn	Chengyang Phaik Tham	12/08/1953	2047	
+C2253Sydn	Ruichen Lan Thay	25/09/1996	2144	
+C2282Sydn	Tianqi Zhang Toeng	23/01/1981	2083	
+C2283Sydn	Lincoln Nee Tjandra	30/09/1958	2200	
+C2287Sydn	Kian Chen Tjandra	10/03/1978	2000	
+C2291Sydn	Mohit Melchor Toh	25/04/1999	2069	
+C2299Sydn	Miller Stuart Tjandra	13/08/1992	2072	
+C2306Sydn	Suk Leng V	17/05/1996	2208	
+C2333Sydn	Audie Chyi Wai	20/01/1960	2112	
+C2334Sydn	Brianna Mohd Tsomaropoulos	23/06/1997	2154	
+C2335Sydn	Chandra Sarll Vernon	7/10/1969	2119	
+C2336Sydn	Jim Sum Vanny	9/05/2000	2109	
+C2340Sydn	Ta Jen Vanny	7/09/1983	2070	
+C2344Sydn	Ling Chan Vass	17/03/1972	2199	
+C2351Sydn	Kun Yao Wakista	1/06/1963	2002	
+C2358Sydn	Berna Feng Wang	12/01/1979	2028	
+C236Sydn	Andrea Howie Chan	9/01/1960	2062	
+C237Sydn	Carol Wah Chan	8/07/1965	2195	
+C2387Sydn	Meng Rahim Wang	4/01/1987	2025	
+C2388Sydn	Luke San Wang	25/04/1963	2165	
+C238Sydn	Ghislaine Boon Chan	11/07/1997	2160	
+C2392Sydn	Fiona La Wang	2/05/1997	2152	
+C2396Sydn	Robyn Chen Wang	22/07/1972	2174	
+C239Sydn	Peter Anh Chan	4/09/1980	2152	
+C2404Sydn	Liang Arjun Wang	23/08/1971	2099	
+C2411Sydn	Audie Clare Weber	12/12/1952	2035	
+C242Sydn	Stefanus Tsang Chan	24/11/1986	2051	
+C2438Sydn	Robert Chien Widjaja	6/10/1963	2056	
+C2439Sydn	Maithm Chan Wiltshire	29/08/1961	2185	
+C2440Sydn	Mohit Paul Widjaya	1/01/1958	2144	
+C2441Sydn	Daniel John Widjaya	11/10/1967	2014	
+C2445Sydn	Duo Ho Widjaya	11/09/1963	2153	
+C2449Sydn	Anthony Hoo Wijaya	13/06/1959	2101	
+C2457Sydn	Helena Leong William	23/12/1998	2150	
+C2464Sydn	Qi Liang Wong	17/09/1990	2081	
+C246Sydn	Shell Fernanda Chang	28/06/2000	2196	
+C2493Sydn	Yu-Hsiu Tan Xiao	21/11/1951	2120	
+C2494Sydn	Jeremy Stansfield Wu	21/04/1963	2074	
+C2498Sydn	Qing Christian Wong	1/09/1955	2091	
+C2502Sydn	Vonny Fernanda Xie	29/09/1979	2185	
+C2510Sydn	Raymond Ting Xie	7/03/1976	2000	
+C2517Sydn	Kian Hwa Xu	18/08/1959	2035	
+C2544Sydn	Justin Tsz Xu	13/03/1989	2062	
+C2545Sydn	Xin Chan Xu	12/10/1994	2147	
+C2546Sydn	Jing Farhadov Xu	18/02/1958	2167	
+C2547Sydn	Pearl Robert Xu	9/04/1951	2141	
+C254Sydn	Kai Usama Chang	9/07/1962	2046	
+C2551Sydn	Mashnul Lewis Yan	18/08/1951	2096	
+C2555Sydn	Teng Jamil Yan	19/08/1998	2017	
+C2563Sydn	Jennifer Sucindra Yeh	15/11/1951	2007	
+C2570Sydn	Robert Jonathan Yeung	28/08/1960	2105	
+C2599Sydn	Ping Chong Yip	21/06/1986	2184	
+C2600Sydn	Sarah Armstrong Yu	5/03/1992	2173	
+C2604Sydn	Vincent Qin Yu	17/12/1957	2182	
+C2608Sydn	Yichen Wong Yip	10/12/1987	2130	
+C2616Sydn	Yixin Kaur Yu	4/10/1985	2168	
+C261Sydn	Jiale Shahir Chaudhary	6/10/1953	2153	
+C2623Sydn	Turgay Liu Yuen	7/03/1952	2105	
+C2650Sydn	Sherin Sie Zhang	30/05/1967	2010	
+C2651Sydn	Jacky Melchor Zhang	16/04/1981	2111	
+C2652Sydn	George Heng Zhang	26/10/1968	2176	
+C2653Sydn	Bei Susanto Zhang	22/12/1951	2006	
+C2657Sydn	Tony Ng Zhou	25/09/1953	2149	
+C2661Sydn	Yu Ali Zhou	4/01/1967	2056	
+C2669Sydn	Ryan Chia Zhou	19/04/1975	2169	
+C2676Sydn	Jye Kalyanaraman	27/05/1957	2010	
+C2705Sydn	Anson Ang	28/02/1975	2030	
+C2706Sydn	Gabriela Louis	20/09/1981	2154	
+C2710Sydn	Perren Gar-Yew	9/10/1984	2146	
+C2714Sydn	Evan Irawan Zwar	18/03/1987	2197	
+C2722Sydn	Matthew Jay	6/11/1997	2202	
+C2729Sydn	Paswindar Mariola	29/12/1997	2051	
+C2756Sydn	Henry Harutyunyan	5/05/1987	2064	
+C2757Sydn	How Berlin	16/06/2000	2002	
+C2758Sydn	Anthony Radcliffe	19/03/1956	2085	
+C2759Sydn	He Annett	30/05/1998	2070	
+C2763Sydn	Thai Hsia	21/06/1999	2022	
+C2767Sydn	Peter James	3/11/1961	2008	
+C2775Sydn	Kian Hsu	13/01/1954	2060	
+C2782Sydn	Zabe Musa	31/01/1999	2164	
+C2811Sydn	Don Pan	26/05/1952	2175	
+C2812Sydn	Hsiao Shen-Han	18/05/1956	2202	
+C2816Sydn	Wai Sze	27/01/1984	2104	
+C2820Sydn	David Marucot	28/04/1955	2162	
+C2828Sydn	Lawson W.	15/05/1960	2046	
+C2835Sydn	Bhoomika Gar-Yew	27/11/1961	2199	
+C2862Sydn	Wing Ilana	21/05/1952	2003	
+C2863Sydn	Igor Chintan	6/04/1982	2047	
+C2864Sydn	David Christian	25/10/1991	2201	
+C2865Sydn	Anela Mohammed	5/06/1952	2205	
+C2869Sydn	Anne Li	5/01/1953	2007	
+C2873Sydn	Nishant Chi	19/05/1952	2205	
+C2881Sydn	Tze Almihaidi	27/02/1956	2047	
+C2888Sydn	Katie Aggarwal	22/10/1979	2200	
+C290Sydn	Mark Timothy Chen	29/04/1955	2052	
+C2917Sydn	Matthew Stuart	5/09/1959	2175	
+C2918Sydn	Servio Wan	13/11/1951	2020	
+C291Sydn	Sandra James Chen	1/04/1993	2020	
+C2922Sydn	Xingyu Christian	5/04/1953	2040	
+C2926Sydn	Wilson Jasek	28/03/1952	2108	
+C2934Sydn	Nelson Pau	20/09/1951	2209	
+C2941Sydn	Alicia Haq	8/03/1953	2176	
+C295Sydn	Aravind King Chen	25/01/1954	2097	
+C2968Sydn	Prakash Huang	20/05/1998	2007	
+C2969Sydn	Amelia Leong	5/11/1989	2161	
+C2970Sydn	Jye Clare	31/03/1955	2027	
+C2971Sydn	Sampson Chan	13/06/1983	2035	
+C2975Sydn	Paul Yuen	25/05/1959	2094	
+C2979Sydn	Fiona Lee	8/02/1993	2195	
+C2987Sydn	David Steven	31/12/1950	2169	
+C2994Sydn	Yue Muniz	10/09/1961	2010	
+C299Sydn	Kerry Xu Chen	27/03/1971	2188	
+C3023Sydn	Paul Soerjono	1/12/1970	2180	
+C3024Sydn	Jeremy Almessabi	9/11/1992	2017	
+C3028Sydn	Benjamin Simon	7/04/1957	2127	
+C3032Sydn	Pou Lu	7/01/1995	2023	
+C3040Sydn	Kita Alexander	18/04/1997	2022	
+C3047Sydn	Eli Li	28/11/1954	2065	
+C3074Sydn	Li Wong	26/01/1984	2054	
+C3075Sydn	Stanley Cheong	7/11/1952	2063	
+C3076Sydn	Tania Timothy	12/05/1959	2018	
+C3077Sydn	Hanny Au	9/08/1954	2131	
+C307Sydn	Anjan Kwok Chen	17/09/1955	2062	
+C3081Sydn	David Sophia	15/02/2000	2155	
+C3085Sydn	Atlarelang Quang	18/05/1999	2156	
+C3093Sydn	Louis Hoa	29/11/1991	2168	
+C30Sydn	Eugene Ting Andrew	31/08/1980	2141	16/03/2016
+C30Sydn	Eugene Ting Andrew	31/08/1980	2151	1/07/2016
+C30Sydn	Eugene Ting Andrew	31/08/1980	2104	3/03/2018
+C30Sydn	Eugene Ting Andrew	31/08/1980	2019	
+C3100Sydn	Mark Loh	21/12/1962	2178	
+C3129Sydn	Vanessa-Cam Irawan	9/03/1951	2141	
+C3130Sydn	Anastasios Jon	9/01/1979	2154	
+C3134Sydn	George Shaker	11/01/1997	2037	
+C3138Sydn	Gerwin Scott	6/01/1959	2116	
+C3146Sydn	David Ng	15/02/1965	2089	
+C314Sydn	King Lian Chen	31/08/1965	2130	
+C3153Sydn	Shu-Ket Dunn	18/11/1976	2182	
+C3180Sydn	David Maree	30/05/1957	2025	
+C3181Sydn	Hin Ho	17/12/1983	2103	
+C3182Sydn	Yuen Liang	25/04/1964	2122	
+C3183Sydn	Hong Jose	10/05/1965	2032	
+C3187Sydn	David Wing	4/11/1959	2110	
+C3191Sydn	Milisha Tong	30/10/1963	2115	
+C3199Sydn	Stefanus Man	5/08/1980	2107	
+C3206Sydn	Eng Cheah	28/11/1960	2206	
+C3235Sydn	Fajar Wajsbrem	3/02/1954	2041	
+C3236Sydn	Benjamin Kesari	6/08/1959	2113	
+C3240Sydn	Anna Akhmetjanova	9/07/1991	2032	
+C3244Sydn	Eng Yuen	29/05/1952	2169	
+C3252Sydn	Benjamin Dishantha	16/10/1982	2110	
+C3259Sydn	Weihao Liang	19/03/1951	2043	
+C3286Sydn	Oliver Louis	12/09/1990	2202	
+C3287Sydn	Claudia Fernanda	21/05/1979	2159	
+C3288Sydn	George William	13/01/1973	2029	
+C3289Sydn	Rakkhi Hooi	26/06/1990	2045	
+C3293Sydn	Hani Leon	24/03/1997	2174	
+C3297Sydn	Vyshakh Bernal	8/04/1963	2071	
+C3305Sydn	Lay Wei-Yang	18/03/1990	2125	
+C3312Sydn	Caroline Wanzee	29/08/1990	2102	
+C3340Sydn	Bei Martin	5/08/1953	2012	
+C3341Sydn	Hai-Fan Li	18/03/1985	2042	
+C3345Sydn	Anne Chung	9/12/1955	2035	
+C3349Sydn	Ying Collin	19/07/1964	2113	
+C3357Sydn	Louisa Leong	15/07/1957	2057	
+C3364Sydn	Rusol Fong	22/03/1977	2166	
+C3391Sydn	Un Xue	5/12/1979	2056	
+C3392Sydn	Yee Leng	13/09/1978	2162	
+C3393Sydn	Yenny Zhou	29/09/1976	2147	
+C3394Sydn	Chengyang Yeung	20/07/1973	2063	
+C3398Sydn	Jaratpon Victor	23/03/1988	2006	
+C3402Sydn	Lincoln Lees	6/12/1980	2001	
+C340Sydn	Christopher Martin Cheng	25/09/1984	2206	
+C3410Sydn	Fiona Tanujaya	14/10/1951	2003	
+C3417Sydn	Kar Yeo	27/02/1999	2024	
+C341Sydn	Ming Hong Cheryl	5/09/1957	2031	
+C342Sydn	Szu-Yu Kotsias Chhenh	10/11/1983	2084	
+C343Sydn	Daniel Leong Cheng	19/08/1953	2139	
+C3446Sydn	Denis Shane	25/09/1968	2182	
+C3447Sydn	Shreyak Mccleary	19/03/1964	2174	
+C3451Sydn	Qi Alzayer	27/08/1953	2050	
+C3455Sydn	Rocio Keung	15/12/1976	2082	
+C3463Sydn	Jim Lu	13/08/1952	2180	
+C3470Sydn	Tong Gregorius	16/09/1960	2170	
+C347Sydn	Sabooh Yu Cheung	16/03/1978	2011	
+C3497Sydn	Siobhan Zwar	8/05/1963	2192	
+C3498Sydn	Ka James	16/07/1996	2185	
+C3499Sydn	Kam Bagus	8/11/1964	2204	
+C34Sydn	Roselle Siourthas Andy	3/03/1999	2162	
+C3500Sydn	Ming Chakravarti	1/08/1952	2107	
+C3504Sydn	Hong-Lim Jin	9/09/1956	2195	
+C3508Sydn	Rong W.	26/06/1996	2180	
+C3516Sydn	Wai Tong	23/03/1956	2182	
+C351Sydn	Soo Chen Cheung	31/01/1977	2181	
+C3523Sydn	Kita Eduardo	21/02/1952	2191	
+C3552Sydn	Chin Hooi	19/04/1968	2126	
+C3553Sydn	Karen Yuk	27/03/1962	2136	
+C3557Sydn	Suong John	18/03/1998	2000	
+C3561Sydn	Paswindar Bergman	1/02/1964	2067	
+C3569Sydn	Shee Phaik	18/11/1983	2010	
+C3576Sydn	Cary Katherine	9/04/1993	2093	
+C359Sydn	David Yeung Cholewka	16/01/1964	2013	
+C3603Sydn	Stephanie Kuang-Fu	23/10/1953	2116	
+C3604Sydn	Anthony Luo	13/01/1970	2043	
+C3605Sydn	Bei John	24/12/1976	2077	
+C3606Sydn	Kia William	1/11/1949	2180	
+C3610Sydn	Theresa Katherine	9/09/1991	2204	
+C3614Sydn	Herman Purnamasari	8/12/1988	2173	
+C4242Sydn	Chi Wajsbrem	29/09/1998	2206	
+C4246Sydn	Katie Hesketh	13/06/1965	2159	
+C4250Sydn	Costa Wing	10/11/1959	2071	
+C4258Sydn	Anjan Troy	17/12/1985	2055	
+C4265Sydn	Xingyu Tuyet	21/03/1961	2020	
+C4294Sydn	Wing Kumar	31/12/1950	2046	
+C4295Sydn	Pik Timothy	16/01/1953	2000	
+C4299Sydn	Darina Vegesna	16/10/1979	2071	
+C4303Sydn	Anthony Choon	13/08/1949	2184	
+C4311Sydn	Aravind Ming	27/12/1972	2006	
+C4318Sydn	Maria Mah	26/06/1962	2012	
+C4345Sydn	Anson Shi	6/11/1996	2025	
+C4346Sydn	Ling Lam	1/07/1958	2017	
+C4347Sydn	Wenhua Widjaya	8/07/1960	2057	
+C4348Sydn	Craig Wong	25/03/1952	2010	
+C4352Sydn	Warren Hoo	6/08/1950	2166	
+C4356Sydn	Karin Wijewardena	24/02/1999	2034	
+C4364Sydn	Chenguang Ruth	4/12/1977	2189	
+C4371Sydn	Servio Quang	18/02/1984	2082	
+C4400Sydn	Peter Edward	15/05/1955	2106	
+C4401Sydn	Vyshakh Lewis	10/11/1960	2133	
+C4405Sydn	Stewart Jorge	20/02/1958	2201	
+C4409Sydn	Michael Hsia	22/09/1989	2096	
+C4417Sydn	Benjamin Thao	17/05/1997	2082	
+C4424Sydn	Vonny Turetsky	17/03/2000	2091	
+C4451Sydn	Di Achamma	6/07/1960	2141	
+C4452Sydn	Janet Bagus	2/04/1978	2129	
+C4453Sydn	Suong King	25/07/1973	2100	
+C4454Sydn	Alica Ruth	15/10/1956	2001	
+C4458Sydn	Henry Felix	18/07/1972	2138	
+C4462Sydn	Jennifer Turner	15/06/1957	2063	
+C446Sydn	Alvin Cameron Croix	22/11/1952	2022	
+C4470Sydn	Sharon Bergman	22/06/1996	2142	
+C4477Sydn	Jenny Tokura	17/07/1987	2034	
+C447Sydn	Mark Chen Croix	16/12/1974	2198	
+C448Sydn	Angel Browne Croix	22/02/1962	2042	
+C449Sydn	Peter Zhai Croix	21/08/1977	2003	
+C4506Sydn	Bibin Tang	22/04/1978	2018	
+C4507Sydn	Juan Foo	9/04/1984	2103	
+C4511Sydn	Weijia Radcliffe	22/12/1953	2186	
+C4515Sydn	Peter Lin	20/02/1980	2179	
+C4523Sydn	Michael Lowry	29/05/1964	2009	
+C4530Sydn	Katie Foo	8/08/1979	2145	
+C453Sydn	Jordan Anh Da	7/02/1952	2189	
+C4555Sydn	Tseu Wah	28/07/1965	2029	
+C4557Sydn	Jason Heng	11/05/1960	2085	
+C4558Sydn	Lawrence Chooi	28/09/1978	2074	
+C4559Sydn	Sang James	25/02/1953	2062	
+C4560Sydn	Kun Subagio	23/04/1984	2013	
+C4564Sydn	Emi Sam	19/06/1970	2170	
+C4568Sydn	Fiona Ma	11/08/1996	2005	
+C4576Sydn	John Steel	25/08/1958	2029	
+C457Sydn	Thomas Lun Dalton	26/10/1983	2082	
+C4583Sydn	Meng Marie	29/12/1953	2128	
+C4612Sydn	Marc Tsun	29/06/1996	2207	
+C4613Sydn	Jessica Akhmetjanova	13/06/1966	2097	
+C4617Sydn	Hong-Lim John	22/05/1951	2205	
+C4621Sydn	He Yu	1/03/1993	2050	
+C4629Sydn	Wan Shi	26/07/1957	2012	
+C4636Sydn	Mayumi Wong	22/08/1999	2126	
+C465Sydn	Chen Heung Daniel	23/06/1963	2143	
+C4663Sydn	Varesh Chi	23/03/1996	2078	
+C4664Sydn	Di Munajat	20/04/1956	2172	
+C4665Sydn	Vivian Robindra	21/08/1957	2127	
+C4666Sydn	Charles Christian	13/06/1982	2123	
+C4670Sydn	Lye Kumala	18/06/1994	2148	
+C4674Sydn	Dean Choon	15/05/1977	2189	
+C4682Sydn	Gaganjot Bhandari	29/05/1973	2088	
+C4689Sydn	Maha Kwok	24/12/1983	2078	
+C46Sydn	Weng Fok Anggoro	27/08/1965	2070	
+C4718Sydn	Justin Narendra	31/01/1956	2180	
+C4719Sydn	Gaganjot Fu	12/12/1979	2192	
+C4723Sydn	Arun Tham	12/08/1955	2118	
+C4727Sydn	Gustavo Martin	26/10/1960	2133	
+C472Sydn	Craig Luwee Daniel	30/03/1987	2095	
+C4735Sydn	Gangani George	29/06/1970	2161	
+C4742Sydn	Robert Errol	26/03/1950	2203	
+C4769Sydn	Yun Pham	23/01/1980	2177	
+C4770Sydn	Kwan David	30/09/1964	2187	
+C4771Sydn	Winnie Wong	24/02/1997	2047	
+C4772Sydn	Jiajie Kurane	5/08/1951	2186	
+C4776Sydn	Marlene Usama	14/06/1978	2185	
+C4780Sydn	Hendry Elizabeth	22/08/1990	2157	
+C4788Sydn	Shu-Ket Lakshmi	2/06/1992	2175	
+C4795Sydn	Lye Wong	5/01/1955	2027	
+C4824Sydn	Sirui Allan	27/03/1968	2001	
+C4825Sydn	Clarence Kartika	13/03/1973	2009	
+C4829Sydn	King Elizabeth	19/12/1974	2079	
+C4833Sydn	Nga Leung	18/10/1969	2027	
+C4841Sydn	Zihong Low	22/06/1999	2046	
+C4848Sydn	Mark Keina	16/09/2000	2101	
+C4875Sydn	Andrew Leung	22/01/1992	2109	
+C4876Sydn	Costa Felix	21/10/1987	2198	
+C4877Sydn	Armando Irawan	12/05/1956	2167	
+C4878Sydn	Xianghong Alzayer	15/02/1977	2092	
+C4882Sydn	Andy Fay	16/10/1992	2079	
+C4886Sydn	Ashish Ilana	17/01/1953	2153	
+C4894Sydn	Daniel Wijaya	30/01/1957	2091	
+C4901Sydn	Li Timothy	29/04/1953	2095	
+C4930Sydn	Benjamin King	1/07/1971	2138	
+C4931Sydn	Yue Thai	22/07/1952	2060	
+C4935Sydn	Su-Yi Elizabeth	23/11/1974	2154	
+C4939Sydn	Ying Keong	20/04/1955	2196	
+C4947Sydn	Denis Wayne	3/01/1960	2136	
+C4954Sydn	Gaurav Bhandari	15/02/1959	2197	
+C4981Sydn	Gary Bernadette	22/07/1996	2130	
+C4982Sydn	Sreenath Phaik	14/11/1996	2114	
+C4983Sydn	Josh Esteban	28/05/1987	2177	
+C4984Sydn	Martin Zheng	17/02/1955	2181	
+C4988Sydn	Hsiao Ng	20/01/1968	2083	
+C4992Sydn	Patrick Loo	14/02/1978	2199	
+C4Sydn	Xiaodan Martinez Aggarwal	5/04/1957	2181	
+C5000Sydn	Xun Sung-Chit	23/06/1982	2003	
+C5007Sydn	Anson Tan	19/03/1963	2144	
+C501Sydn	Benjamin Jay Dedeche	14/10/1970	2157	
+C502Sydn	Louise Ong Dedeche	16/04/1998	2143	
+C5036Sydn	Cassio Russell	18/10/1955	2036	
+C5037Sydn	Bing Del	8/10/1984	2044	
+C5041Sydn	Anisha Jain	4/08/1994	2195	
+C5045Sydn	Brett Liondas	22/06/1979	2176	
+C5053Sydn	Eli Phuong Chen	4/07/1969	2136	
+C5060Sydn	Tengteng Chi Kang	18/11/1997	2094	
+C506Sydn	Lily Chen Del	29/03/1958	2081	
+C510Sydn	Don Liau Daniel	1/09/1983	2122	9/07/2016
+C510Sydn	Don Liau Daniel	1/09/1983	2099	
+C517Sydn	Yunlong Ing Devupali	11/04/1952	2023	
+C524Sydn	Qing Dale Dias	25/02/1952	2142	
+C53Sydn	Hong James Annette	27/09/1998	2012	
+C550Sydn	Vyshakh Irawan Earle	28/07/1999	2185	
+C551Sydn	Andy Khoi Dip	29/09/1957	2042	
+C552Sydn	Tim Nugroho Earle	14/04/1968	2109	
+C553Sydn	Jason Martin Earle	2/06/1953	2003	
+C557Sydn	Sam She Dip	21/10/1997	2010	
+C561Sydn	Reshma Lau Eddes	18/06/1989	2144	
+C569Sydn	Miu Sanjaya Dobson	18/07/1963	2118	
+C575Sydn	Laam Francis Eileen	9/03/1983	2109	
+C604Sydn	Craig Guy Ellen	17/01/1961	2176	
+C605Sydn	Kwet Psarros Fallon	4/09/1961	2096	
+C609Sydn	Wing Mohammad Fang	2/03/1989	2165	
+C613Sydn	Marlene Lim Farhadov	14/01/1953	2166	
+C621Sydn	Vivian Lim Fatima	31/05/1997	2060	
+C628Sydn	Blake Jennie Fok	3/09/1978	2097	
+C655Sydn	Hao W Fong	7/02/1964	2155	
+C656Sydn	Fengmin Park Fong	7/02/1976	2019	
+C657Sydn	Qi Lim Forema	2/03/1978	2040	
+C658Sydn	Yanni Lekha Florence	4/08/1973	2075	
+C662Sydn	Natasha Shoun Francis	28/06/1967	2160	
+C666Sydn	Angel Wan Francis	23/08/1979	2128	
+C674Sydn	Zhenya Junior Galarza	12/10/1988	2012	
+C681Sydn	John Chow Fung	22/07/1975	2049	
+C709Sydn	Sze Kheong Gin	31/12/1985	2149	
+C710Sydn	Ming Soesetyo Gin	1/05/1983	2003	
+C714Sydn	Jordan Alexander Gin	4/02/1958	2007	
+C718Sydn	Gaganjot Carroll Goh	15/04/1967	2027	
+C726Sydn	Xiaodan Hu Goh	19/03/1953	2085	
+C733Sydn	Li William Goncalves	25/01/1961	2161	
+C760Sydn	Geoffrey Tang Grinberg	19/02/1988	2001	30/11/2017
+C760Sydn	Geoffrey Tang Grinberg	19/02/1988	2196	
+C761Sydn	Chon Chye-Hwa Halim	13/02/1963	2037	
+C762Sydn	Urmila Chin Halim	26/11/1975	2155	
+C766Sydn	Pik Yeo Hang	9/12/1953	2053	
+C770Sydn	Fiona Tchung Hang	14/02/1997	2013	
+C778Sydn	Chih-Hsiung Halim Harrison	17/03/1950	2081	
+C785Sydn	Lillian Chung Haryono	16/07/1978	2102	
+C80Sydn	Gaurav Gar-Yew Bai	26/08/1968	2088	25/10/2017
+C80Sydn	Gaurav Gar-Yew Bai	26/08/1968	2188	
+C813Sydn	Sujatha Steel Heung	9/07/1971	2208	
+C814Sydn	Miller Ming Heung	21/04/1943	2114	
+C818Sydn	Bo Kuong Hew	28/05/1985	2161	
+C81Sydn	Haliyusswanee Wayne Awan	15/04/1969	2059	
+C822Sydn	Anna Kumar Hirsinger	19/09/1955	2129	
+C82Sydn	Nancy Huat Awan	28/08/1967	2186	
+C830Sydn	Tim Yave Ho	30/09/1956	2149	
+C837Sydn	Mohd Malo Ho	24/05/1952	2159	
+C864Sydn	Tsu Nguyen Holmes	17/12/1959	2108	
+C865Sydn	Amelia Nor Hooi	17/06/1955	2022	
+C866Sydn	Wing Lobo Holmes	11/10/2000	2107	
+C867Sydn	Chao-Chih Cholewka Holmes	7/05/1953	2012	
+C86Sydn	Wanyu Yong-Whi Bairstow	9/12/1954	2128	
+C871Sydn	Seng Paul Hooi	18/09/1987	2157	
+C875Sydn	Martin Chen Hooi	8/04/2000	2192	
+C883Sydn	Anhua Jin Hossain	3/02/1986	2019	
+C890Sydn	Matthew Clouvas Hovelt	18/03/1987	2207	
+C90Sydn	Mansoor Lee Balgovind	15/07/1978	2084	
+C919Sydn	Graciela See Hung	2/02/1949	2115	
+C920Sydn	Maria Marieta Hung	5/07/1997	2147	
+C924Sydn	Meng Wu Hussain	15/06/1978	2031	
+C928Sydn	Debojyoti Sibbing Iaroslavski	14/11/1996	2103	
+C936Sydn	Kerry Dianne In	4/05/1963	2195	
+C943Sydn	Rusol Marie Jacky	17/01/1974	2065	
+C970Sydn	Anela Jiri Jia	3/07/1996	2107	
+C971Sydn	Luke Chee Jia	9/05/1951	2177	
+C972Sydn	Xueyang Ch'ien Jimenez	5/07/1958	2006	
+C973Sydn	John James John	3/09/1981	2020	
+C977Sydn	Mansoor Jin Jonathan	17/10/1998	2081	
+C981Sydn	Mashnul Paul Jones	7/11/1957	2194	
+C989Sydn	Shuangchao Ping Jun	23/03/1972	2135	
+C98Sydn	Pablo King Bao	1/03/1968	2041	
+C996Sydn	Ashima La Junaid	12/06/1953	2079	

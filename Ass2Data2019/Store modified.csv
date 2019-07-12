@@ -1,0 +1,5 @@
+StoreID,Description,Address,OpenTimeToMonSat,CloseTimeMonToSat,SundayOpen,OpenTimeSun,CloseTimeSun
+1,DARWIN,"19 Finniss St, Darwin, NT 0800",8:00,21:00,Y,9:00,18:00
+2,BRISBANE,"23 Wellington St, Brisbane, QLD 4000",8:00,21:00,N,,
+3,SYDNEY,"233 Macquarie St, Sydney, NSW 2000",8:00,21:00,N,,
+4,MELBOURNE,"123 Latrobe St, Melbourne, VIC 3000",8:00,21:00,N,,

@@ -1,0 +1,287 @@
+CustCode	Name	Date of Birth	Postcode	Validuntil
+C1157Melb	Timothy Fuad Lai	18/12/1953	3052	
+C1158Melb	Rahul Herszfeld Lai	14/05/1955	3040	
+C115Melb	Amalie Yuen Benjamin	12/10/1992	3053	
+C1161Melb	Igor Goh Lambert	24/01/1967	3053	
+C1163Melb	Kennis Leik Lambert	26/06/1975	3052	
+C1164Melb	Xin Renwick Lai	22/10/1992	3056	
+C1166Melb	Yingshuang Braun Lai	19/06/1956	3072	
+C1169Melb	Manuja Wanzee Lau	21/10/1956	3052	
+C1170Melb	Nelson Heng Lam	29/09/1974	3005	
+C1171Melb	Jennifer Siau Lau	2/05/1998	3040	
+C1172Melb	Xun Victor Lam	6/04/1967	3065	
+C1173Melb	Chris Jin Lam	5/01/1973	3052	
+C1175Melb	Mansoor Ng Lau	11/08/1952	3053	
+C117Melb	Bei Nicholas Berlin	18/07/1990	3068	
+C1182Melb	Nga Chan Lau	16/12/1998	3040	
+C1186Melb	Meera Teh Law	18/09/1991	3068	
+C1189Melb	Hock Lu Law	30/05/1953	3005	
+C118Melb	Gagan Kaur Benjamin	7/08/1963	3052	
+C1190Melb	Blake Nath Law	28/04/1988	3O56	
+C1191Melb	Chandra Lewis Lawrence	16/02/1981	3175	
+C1192Melb	Janet Yin Law	3/07/1967	3052	
+C1193Melb	Rusol Chintan Law	11/08/1952	3040	
+C1194Melb	Weihao DelCiotto Lawrence	19/01/1985	3040	
+C1195Melb	Audie Thai Lawrence	9/11/1956	3005	
+C1197Melb	Bo Beverly Law	11/07/1989	3002	
+C1198Melb	Deepam Sanjaya Lawrence	8/01/1988	3053	
+C1199Melb	Boon Wiltshire Lawrence	22/04/1948	3040	
+C1201Melb	Alice Man Lawrence	24/05/1961	3070	
+C1204Melb	Yeong Fook Le	6/11/1998	3040	
+C1208Melb	Alice Zoma Lee	4/05/1952	3052	
+C1209Melb	Jamie Cottrell Lee	18/12/1954	3070	
+C120Melb	Perren The Benjamin	9/06/1951	3040	
+C1212Melb	Peijia Andrew Lee	28/01/1995	3053	
+C1214Melb	Robert Kurane Lee	29/10/1999	3040	
+C1215Melb	Chang Clare Lee	28/11/1971	3175	
+C1217Melb	Vinoth Yarwood Lee	25/10/1999	3040	
+C1220Melb	I-Jane Liu Lee	19/12/1970	3175	
+C1221Melb	Kai Yuli Lee	2/07/1998	3056	
+C1222Melb	Waleed Villagomez Lee	6/06/1964	3065	
+C1223Melb	Robert Fook Lee	2/09/1960	3002	
+C1224Melb	Boon Kuang-Fu Lee	14/01/1968	3053	
+C1226Melb	Julio May Lee	16/06/1957	3052	
+C1234Melb	Stewart Hoa Lee	10/01/1985	3052	
+C1238Melb	Nidah Yeh Lee	22/07/1990	3040	
+C123Melb	Atlarelang Chandra Bensted	23/09/1960	3002	
+C3622Melb	Anjan Chen	19/01/1950	3040	
+C3629Melb	Yu Harun	29/08/1950	3053	
+C3658Melb	Xiaojia Jay	29/04/1959	3070	
+C3659Melb	Zheo Zhou	11/04/1991	3170	
+C3663Melb	Lingjie Menting	1/12/1958	3002	
+C3667Melb	Leo Gray	3/05/1993	3070	
+C366Melb	Ming Jain Chin	9/02/1967	3053	
+C3675Melb	Ching Bairstow	24/05/1957	3053	
+C3682Melb	Anthony Chee	7/12/1997	3053	
+C3709Melb	Rahul Siau	19/02/1972	3002	
+C3710Melb	Andrew Chung	7/12/1992	3051	
+C3711Melb	Yi Martin	25/05/1955	3173	
+C3712Melb	Kar Lakshmi	30/10/1953	3040	
+C3716Melb	Jikang King	9/03/1955	3002	
+C3720Melb	Jason Nagpaul	11/06/1997	3051	
+C3728Melb	Chin Yan	25/02/1975	3002	
+C3735Melb	Marie Chi-Nga	22/10/1969	3041	
+C3764Melb	Louisa Mroue	27/03/1964	3068	
+C3765Melb	Thanh Hao	9/07/1990	3052	
+C3769Melb	Reshma Mall	25/11/1979	3056	
+C3773Melb	Robert Yin	16/10/1967	3053	
+C3781Melb	Chi Huat	17/11/1972	3042	
+C3788Melb	Esther Fitradi	13/12/1968	3070	
+C3815Melb	Chong Overell	31/03/1962	3052	
+C3816Melb	Geoffrey Chen	25/04/1974	3040	
+C3817Melb	Ivan Ma	14/05/1993	3053	
+C3818Melb	Ashley Catherine	11/03/1957	3070	
+C3822Melb	Julian Kwok	20/09/1981	30523	
+C3826Melb	Scott Tankulrat	15/09/1968	3070	
+C3834Melb	Tatag Siok	14/09/1979	3053	
+C3841Melb	Daniel Gong	5/07/1998	3041	
+C3870Melb	Wai Moraga	13/09/1958	3056	
+C3871Melb	Gangani Kwok	17/05/1959	3052	
+C3875Melb	Sarah Zhang	11/09/1961	3053	
+C3879Melb	Winnie Trew	17/06/1997	3052	
+C3887Melb	Kenneth Fei	3/09/1956	3056	
+C3894Melb	Teck Thomas	23/07/1955	3005	
+C38Melb	Vonny Marieta Andy	15/12/1953	3040	
+C3921Melb	Anjan Alberto	20/09/1997	3040	
+C3922Melb	David Po	8/06/1990	3068	
+C3923Melb	Greg -	23/04/1978	3040	
+C3924Melb	Amul Hooi	22/11/1951	3175	
+C3928Melb	Sang Lee	6/02/1986	3176	
+C3932Melb	Stefanus C	26/06/1985	3053	
+C3940Melb	Katie Moor	21/08/1990	3068	
+C3947Melb	Lay Rieniets	15/04/1955	3065	
+C395Melb	Huan Elizabeth Choong	18/11/1998	3175	
+C396Melb	Cary Halim Choong	12/03/1968	3068	
+C3976Melb	Timothy Russell	20/07/1998	3053	
+C3977Melb	Jacky Kloves	25/10/1982	3070	
+C3981Melb	Risa Cao	28/01/1977	3056	
+C3985Melb	Sim Gray	11/04/1982	3041	
+C3993Melb	Yunlong Elizabeth	15/11/1963	3040	
+C4000Melb	Lily Stewart	16/05/1952	3070	
+C400Melb	Anna Carolyn Chris	17/01/1952	3052	
+C4027Melb	Eddie Chow	16/02/1950	3052	
+C4028Melb	James Kit	23/09/2000	3070	
+C4029Melb	Brendan Marucot	17/05/1986	3051	
+C4030Melb	Peta Chauhan	21/06/1979	3051	
+C4034Melb	Feiyi Goh	16/02/1975	3056	
+C4038Melb	Leo Gayler	28/05/1958	3040	
+C4046Melb	Nishant Farhadov	16/02/1975	3065	
+C4047Melb	Debbie Elizabeth	13/11/1953	3068	
+C4048Melb	Louisa Zhou	8/06/1960	3052	
+C4049Melb	Bhoomika Frederick	23/12/1974	3002	
+C404Melb	Tony Mohammed Christina	23/10/1981	3052	
+C4052Melb	Xueyang Wen	6/09/1999	3053	
+C4053Melb	Senjie Loh	14/01/1957	3053	
+C4055Melb	Cassio Michael	28/02/1982	3040	
+C4059Melb	Robert Moor	10/08/1961	3002	
+C405Melb	Thomas Man Christina	29/10/1999	3072	
+C4060Melb	Joshua Ngai	14/03/1976	3040	
+C4063Melb	Nguyen Hocking	16/04/1954	3056	
+C4065Melb	Maree Gan	23/02/1963	3002	
+C4066Melb	Nicholas Anne	2/01/1952	3056	
+C4068Melb	Liang Earle	14/07/1979	3056	
+C406Melb	Choon Cheung Christina	11/07/1960	3053	
+C4071Melb	John Pongpaitoon	18/06/1954	3052	
+C4072Melb	Sirui Chan	23/03/1967	3052	
+C4073Melb	Jing Narang	23/05/1967	3052	
+C4074Melb	Sim Yang	11/12/1971	3053	
+C4075Melb	Graciela Simon	29/09/1958	3065	
+C4077Melb	Karin Geethika	28/07/1995	3172	
+C407Melb	David Chin Christina	28/03/1994	3053	
+C4082Melb	Ashish Quang	27/02/1995	3053	
+C4083Melb	Tianqi Geethika	26/03/1973	3068	
+C4085Melb	Huey Chuah	21/07/1973	3170	
+C4087Melb	Roselle Cheah	24/01/1994	3040	
+C4089Melb	Berna Yew	14/04/1999	3041	
+C4091Melb	Mark C	6/11/1978	3051	
+C4099Melb	Jacqueline Li	13/04/1957	3053	
+C4106Melb	Sok Armansyah	27/09/1954	3052	
+C412Melb	Siyi Ting Chu	7/06/1959	3065	
+C4133Melb	Louisa Pang	20/04/1950	3070	
+C4134Melb	Yuanxi Yuen	26/07/1950	3056	
+C4135Melb	Jonathan Nadine	5/08/1951	3070	
+C4136Melb	Tzu Thao	10/11/1961	3056	
+C4140Melb	Rui Rivera	5/09/1971	3052	
+C4144Melb	Trong Dewi	7/08/1970	30520	
+C4152Melb	Michael Phaik	30/12/1978	3053	
+C4159Melb	Peter Chen	16/10/1953	3040	
+C4188Melb	Yuan Renwick	2/04/1992	3002	
+C4189Melb	Barry Hossain	10/09/1974	3176	
+C4193Melb	Alicia Charles	26/02/1968	3070	
+C4197Melb	Qing Chen	7/01/1988	3065	
+C419Melb	Jer Xuan Chuan	3/01/1982	3051	
+C4205Melb	Karen Yi	20/01/1997	3175	
+C4212Melb	Paswindar Chiu	8/03/1953	3052	
+C4221Melb	Anastasios Jarvis	28/01/1953	3070	
+C4223Melb	Chi Louis	27/04/1971	3005	
+C4229Melb	Lily Pou	4/05/1989	3051	
+C422Melb	Hanson Yu-Wen Chuan	15/06/1969	3053	
+C4238Melb	Jefferson Lorenzo	19/09/1992	3002	
+C4239Melb	Yu Chin	4/07/1983	3052	
+C4240Melb	David Halim	29/10/1953	3053	
+C4241Melb	Yue Elizabeth	13/01/1962	3052	
+C4243Melb	Mohd John	9/06/1971	3052	
+C4245Melb	Roselle Huang	28/10/1969	3040	
+C4262Melb	Yixin Kalyanaraman	22/03/1963	3052	
+C4268Melb	Nathan Ransley	27/02/1959	3072	
+C4274Melb	Leon Harun	11/02/1976	3056	
+C4276Melb	Eka Collin	17/04/2000	3175	
+C4282Melb	Shan Chandra	27/07/1991	3040	
+C428Melb	Natasha Sorrell Chun	15/09/1955	3051	
+C4291Melb	Chin Melchor	17/10/1995	3068	
+C4296Melb	Suhrid Guy	11/08/1966	3052	
+C4298Melb	Natasha Kee	24/01/1969	3040	
+C430Melb	Margaret Leong Chung	22/11/1948	3002	
+C4315Melb	Jon Chun	13/06/1953	3053	
+C4321Melb	Eng Khoo	6/06/1975	3053	
+C4327Melb	Steven Huang	18/06/1971	3056	
+C4329Melb	Hsiao Chan	6/12/1950	3053	
+C4335Melb	Yu-Hsiu Tze	21/07/1963	3005	
+C4344Melb	Nigel Leng	7/10/1974	3052	
+C4349Melb	Wenyue Francis	13/04/1984	3052	
+C4351Melb	Penelope Kesiilwe	20/10/1976	3051	
+C4368Melb	Angela Hoa	27/05/1996	3052	
+C436Melb	Pee Hodder Chung	17/06/1998	3040	
+C4374Melb	Raj Xiao	20/07/1958	3065	
+C4380Melb	Qi Alzayer	16/11/1960	3040	
+C4382Melb	Xueyang Ochoa	3/10/1965	3052	
+C4388Melb	Mark Nadine	23/02/1980	3070	
+C4397Melb	Lia Samarasekera	22/09/1968	3052	
+C5043Melb	Vaishnavi Katherine	5/11/1985	3005	
+C5046Melb	Alice Chan	7/02/1974	3053	
+C5047Melb	Benjamin Zhang Ali	26/07/1962	3052	
+C5048Melb	Henny Adam Andrew	25/04/1958	3052	
+C5049Melb	Maree Bhandari Au	30/05/1982	3040	
+C504Melb	Craig John Del	14/10/1995	3065	
+C5050Melb	Hanny Plotnikov Cameron	21/09/1959	3052	
+C5051Melb	Chang Roy Chan	26/08/1957	3040	
+C5052Melb	Hans Tchea Chan	22/08/1989	3040	
+C5054Melb	Yu-Hsiu San Devarajah	25/03/1996	3170	
+C5055Melb	Yu Wong Dunn	18/09/1951	3072	
+C5056Melb	Nigel Yan Eileen	13/12/1998	3051	
+C5059Melb	Leonard Hume Hau	21/11/1971	3172	
+C5062Melb	Thomas Zhou Kiong	22/07/1958	3041	
+C5066Melb	Chi Robertson Leung	13/02/1952	3052	
+C5067Melb	Joann Cheung Momeni	7/06/1951	3068	
+C5070Melb	Nan Vipinchandra Pei	4/10/1973	3070	
+C5072Melb	Ying Kuong Reshma	14/06/1957	3056	
+C5073Melb	Emanuela Liau Tang	6/10/1986	810	
+C508Melb	Matthew Vegesna Deng	15/06/1956	3070	
+C511Melb	Maha Li Devarajah	3/02/1961	3052	
+C512Melb	Vaishnavi Yan Devidas	25/06/1959	3065	
+C513Melb	Robin Andrew Devupali	11/03/1962	3172	
+C514Melb	Julian Mohammed Devupali	8/03/1966	3040	
+C515Melb	Tengteng Peacock Devupali	29/12/1996	3051	
+C516Melb	Debojyoti Jose Devupali	2/07/1954	3002	
+C518Melb	Ling Kei Dimitry	2/09/1962	3176	
+C519Melb	Kennis Zhang Dimitry	28/12/1955	3051	
+C520Melb	Stanley Michael Devupali	24/04/1997	3051	
+C523Melb	Jacky Liew Dimitry	25/01/1998	3072	
+C526Melb	Siqi Zwar Dias	15/05/1998	3052	
+C52Melb	Jeremy Mera Annette	5/09/1971	3052	
+C530Melb	Yifei Kan Diep	10/01/1962	3053	
+C531Melb	Jessica Hong Dimopoulos	5/08/1958	3072	
+C534Melb	Vincent Abdusebur Diep	7/09/1974	3053	
+C536Melb	Yu-Hsiu Man Dimitry	15/01/1993	3053	
+C537Melb	Cheok Phung Du	7/03/1985	3040	
+C539Melb	Cassio Sie Dip	23/01/1957	3065	
+C541Melb	Boon Pagatpatan Dip	13/10/1994	3041	
+C542Melb	Lewis Yao Dunn	29/02/1964	3053	
+C768Melb	Felix Sting Hang	30/11/1996	3052	
+C771Melb	Siqi Daniel Harold	3/11/1993	3070	
+C772Melb	Simon Tay Harold	23/10/1954	3053	
+C773Melb	Matthew George Harold	26/09/1981	3040	
+C774Melb	Weijia Matheu Harrington	22/01/1963	3052	
+C775Melb	Emily Huat Harrington	4/11/1957	3052	
+C776Melb	Alisha Robertson Harrington	15/08/1964	3056	
+C777Melb	Laam On Harrison	18/12/1982	3051	
+C779Melb	Ruichen Scott Harrison	21/04/1996	3005	
+C77Melb	Chi Farn Au	19/09/1994	3002	
+C780Melb	Suong Lydia Harrison	3/08/1950	3041	
+C781Melb	Xavier How Harrison	20/05/1983	3170	
+C784Melb	Louise Hng Haryono	9/12/1991	3040	
+C787Melb	Dinni Sydney Hassan	10/06/1951	3005	
+C790Melb	Eka Allan Gutjahr	5/06/1976	3056	
+C790Melb	Eka Allan Gutjahr	5/06/1976	3052	
+C791Melb	Robert Haryono Hayyati	28/12/1997	3051	
+C794Melb	Zabe Usama Heath	6/05/1961	3056	
+C796Melb	Diana Lee Heath	2/03/1953	3052	
+C797Melb	Liang Dishantha Heath	11/01/1983	3056	
+C799Melb	Joshua Isabel Heinicke	16/02/1958	3056	
+C802Melb	Tseu Shen-Han Heng	26/04/1994	3052	
+C803Melb	Peter Chek Heng	19/09/1985	3052	
+C804Melb	Sui Paul Herd	9/03/1984	3051	
+C805Melb	Anisha Braun Heng	5/04/1991	3052	
+C806Melb	Gary Sam Herd	21/05/1971	3172	
+C808Melb	Ting Mark Herd	5/01/1955	3068	
+C816Melb	Xiao Henry Heung	17/03/1998	3065	
+C820Melb	Amul Fernanda Hew	8/08/1990	3176	
+C823Melb	Anastasios Dianne Hirsinger	15/03/1963	3053	
+C824Melb	Kean Lam Hirsinger	16/08/1966	3056	
+C825Melb	Brett Du Hirsinger	30/05/1996	3052	
+C826Melb	David Aggarwal Hng	26/09/1980	3052	
+C827Melb	Yuen Hwei Hng	30/09/1966	3065	
+C828Melb	Vitavas L'Hotellier Hng	7/11/1997	3005	
+C829Melb	Robert Pongpaitoon Hng	28/09/1956	3170	
+C85Melb	Ting Lai Bai	16/07/1960	3065	
+C863Melb	Mingyu Chakravarti Hoo	21/03/1988	3052	
+C868Melb	Yongchao Fitradi Hooi	2/08/1976	3053	
+C870Melb	Katie Peacock Hooi	22/06/1966	3040	
+C887Melb	Jonathan Yek Houghton	16/12/1973	3056	
+C893Melb	Stem Soo How	7/09/1953	3053	
+C899Melb	Jun Jani Hsueh	21/10/1984	3053	
+C901Melb	Hok Xu Hsueh	17/01/1997	3072	
+C907Melb	Yeong Jun Hua	19/02/1987	3052	
+C916Melb	Shee May Hung	18/05/1960	3067	
+C921Melb	Nga Dean Hung	22/02/1987	3053	
+C923Melb	Ankur Chin In	24/04/1981	3176	
+C940Melb	Joshua Yee Ismail	17/10/1996	3052	
+C946Melb	Venkataramana Lam Jacky	26/08/1958	3053	
+C952Melb	Meghan Collin Jani	12/03/1979	3005	
+C954Melb	Yongky Yi Jarvis	6/10/1952	3041	
+C960Melb	Irma Weng Ji	25/03/1953	3070	
+C969Melb	Leon Daniel Jia	5/09/1952	3065	
+C974Melb	Greg Vainshtein Johnstone	23/04/1964	3172	
+C976Melb	Jin Fernanda Johnstone	30/06/1981	3056	
+C993Melb	Sijing Anthony Jun	16/05/1958	3053	
+C999Melb	Mohammad Man K	21/07/1974	3052	

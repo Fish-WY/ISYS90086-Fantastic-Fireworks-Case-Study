@@ -1,0 +1,1876 @@
+CustCode	Name	Date of Birth	Postcode	Validuntil
+C1959Bris	Chee Jorge Samson	10/02/1997	4053	
+C1961Bris	Robert Sacks Romero	14/04/1974	4010	
+C1969Bris	Aleck Chia Saha	18/10/1957	4117	
+C196Bris	Matthew Tang Chan	9/08/1966	4058	
+C1973Bris	Tsz Munajat Saha	18/04/1952	4130	
+C1976Bris	Woo-Jung Cao Salim	13/03/1958	4080	
+C1977Bris	Yingshuang John Sangsurane	19/06/1951	4066	
+C1978Bris	Bin Kin Sangsurane	31/05/1963	4155	
+C1979Bris	Eddie Francis Salim	11/06/1999	4108	
+C197Bris	Shenn Moon Chan	7/09/1999	4089	
+C1980Bris	Maree Cao Sau	25/06/1954	4002	
+C1981Bris	Miu Gerald Sau	8/10/1993	4076	
+C1982Bris	Robert Ling Sangsurane	16/08/1996	4047	
+C1984Bris	Charles Mulki Sam	27/03/1949	4114	
+C1985Bris	Hong-Lim Jun Sanjaya	28/03/1971	4028	
+C1986Bris	Lingjie David Schmidt	4/02/1949	4044	
+C1989Bris	Lillian Sung-Chit Schmidt	25/07/1998	4071	
+C198Bris	Yu Sie Chai	6/11/1952	4063	
+C1992Bris	Jingyi Zhai Sankranti	27/08/1978	4026	
+C1996Bris	Lye Kooy Septina	4/05/1960	4141	
+C1997Bris	Ruichen Ruth Scully	19/10/1965	4118	
+C199Bris	Anne Paul Chan	30/01/1995	4036	
+C2000Bris	Ankur Raso Setiawan	7/06/1953	4058	
+C2002Bris	Bei Yu Shah	25/12/1999	4073	
+C2003Bris	Serey Meng Seah	8/12/1999	4121	
+C2005Bris	Tou Li Shah	2/04/1982	4044	
+C2008Bris	Elvie Elizabeth Shakespeare	30/11/1990	4011	
+C2009Bris	Zhenya Ngu Shek	30/10/1956	4013	
+C200Bris	Brianna Sachdeva Chan	8/12/1954	4068	20/05/2017
+C200Bris	Brianna Sachdeva Chan	8/12/1954	4020	
+C2010Bris	Michael Fuad Shakespeare	2/08/1992	4114	
+C2011Bris	Yongky Tokura Shek	10/08/1984	4114	
+C2012Bris	Santiago Brian Shek	17/10/1975	4063	
+C2014Bris	Tsu Tanujaya Shek	5/05/1957	4007	
+C201Bris	Muhamad Wei-Yang Chak	13/02/1991	4073	
+C2022Bris	Samant Poon Shi	22/03/1952	4137	
+C2026Bris	Katie Leo Shi	29/06/1960	4086	
+C2029Bris	Meng Naseer Shi	15/01/1956	4056	
+C2030Bris	Anjan Kian Shin	31/07/1961	4027	
+C2031Bris	Danni Wang Shi	12/08/1999	4036	
+C2032Bris	Shirley Yeh Shuen	12/03/1974	4121	
+C2033Bris	Scott Man Shuen	18/08/1972	4031	
+C2034Bris	Xueqiang Diep Shi	26/10/1999	4014	
+C2035Bris	Sherly Bhandari Shi	30/11/1993	4047	
+C2037Bris	Hong Cheong Shi	9/04/1954	4100	
+C2038Bris	Yue Li Shuen	18/12/1951	4138	
+C2039Bris	Atlarelang Alexander Shi	30/06/1949	4063	
+C203Bris	Yanni Samarasekera Chan	29/12/1998	4130	
+C2042Bris	Tristram Wah Shuen	27/10/1954	4063	
+C2045Bris	Oliver Yan Siah	5/02/1999	4062	
+C2049Bris	Mengxue Ji Siourthas	23/01/1958	4062	
+C204Bris	Chor Gan Chak	16/04/1955	4137	
+C2050Bris	Arnab Louise Siah	26/06/1998	4029	
+C2053Bris	Ying Henry Siah	25/06/1975	4106	
+C2055Bris	Nan Kit Siourthas	13/01/1955	4014	
+C2056Bris	Andrew Yi Sibbing	4/08/1972	4105	
+C2058Bris	Lachlan Koay Siourthas	15/10/1996	4021	
+C205Bris	Pongphat Herszfeld Chan	10/02/1950	4107	
+C2061Bris	Dinni Moss Siu	9/07/1972	4004	
+C2062Bris	Raymond Sze Sibbing	8/06/1975	4129	
+C2063Bris	Victoria Dale Siu	19/06/1999	4069	
+C2064Bris	Chong Wilmot Siddique	28/10/1952	4019	
+C2065Bris	Jaime Boon Smith	11/10/1971	4088	
+C2067Bris	Henry Sasha Smith	17/06/1953	4076	
+C2075Bris	Leon Chen Sidharta	29/05/1981	4135	
+C2079Bris	Mark Kearney Soni	26/04/1982	4112	
+C2082Bris	Patrick Siah Sidharta	4/09/1997	4075	
+C2083Bris	Sok Michaelidis Soon	18/04/1955	4066	
+C2084Bris	Anthony Li Soon	22/04/1949	4143	
+C2085Bris	Deepam Nassar Soesetyo	12/01/1946	4130	
+C2086Bris	Kenneth Wijaya Sidharta	18/06/1999	4035	
+C2087Bris	Benjamin Tze Soneville	18/09/1989	4007	
+C2088Bris	Esther Andrew Soon	4/12/1980	4106	
+C208Bris	Lachlan Moss Chan	2/08/1962	4142	
+C2090Bris	Esther Gayler Spanio	9/07/1952	4016	
+C2091Bris	Natasha Lin Silva	6/09/1971	4038	
+C2092Bris	Tony David Soneville	3/10/1995	4107	
+C2095Bris	Juan Chen Silva	10/08/1954	4083	
+C2098Bris	Qing Ka Stewart	5/06/1954	4010	
+C2102Bris	Zhanibek Fakhruddin Song	21/05/1989	4029	
+C2103Bris	Kim Ming Spence-Pearse	20/11/1967	4133	
+C2106Bris	Anna Gan Song	27/11/1962	4034	
+C2108Bris	Yingshuang Usama Stubbs	2/03/1957	4083	
+C2109Bris	Matthew Fakhruddin Stubbs	13/01/1974	4104	
+C2111Bris	Eugene Martin Spiteri-Staines	16/11/1957	4031	
+C2114Bris	Tim Jonathan Standfield	31/01/1999	4078	
+C2115Bris	Arun Vitti Suarez	9/12/1988	4015	
+C2116Bris	Ricky Sze Standfield	18/10/1985	4121	
+C2117Bris	Aurelio Zajac Suarez	19/05/1953	4123	
+C2118Bris	Daniel Ma Standfield	13/06/1997	4051	
+C211Bris	Privantha Daniel Chakravarti	25/11/1996	4010	
+C2120Bris	Jikang Sachdeva Subagio	27/08/1993	4023	
+C2128Bris	Wai Stert Tammy	14/12/1951	4025	
+C2132Bris	Andrew Chintan Sun	11/06/1995	4003	
+C2135Bris	Chhayraksmey Victor Sun	11/08/1960	4139	
+C2136Bris	Gustavo Tien Stephen	8/11/1954	4121	
+C2137Bris	Mark Luther Tan	5/12/1989	4128	
+C2138Bris	Kar Tse Stephen	28/04/1957	4151	
+C2139Bris	Ming Liondas Tan	28/04/1949	4027	
+C2140Bris	Tania Ruan Sun	30/05/1959	4052	
+C2141Bris	Jiacheng Ruan Stephen	28/11/1961	4138	
+C2143Bris	Vincent Lim Tan	2/10/1956	4072	
+C2144Bris	Anela Ka Stephen	25/11/1956	4137	
+C2145Bris	David Macdonald Tan	2/12/1959	4091	
+C2148Bris	Danni Chen Sun	16/09/1983	4020	
+C2151Bris	Debojyoti Dunn Sun	23/04/1955	4105	
+C2155Bris	Man Scott Tang	12/07/1958	4072	
+C2156Bris	Teck Patricia Suyanto	3/10/1952	4083	
+C2159Bris	Chengen Ali Tan	21/08/1983	4052	
+C215Bris	Nathan Meng Chan	19/09/1994	4077	
+C2161Bris	Nouras Nee Suyanto	12/02/1984	4042	
+C2162Bris	Ching Ma Tan	4/09/1963	4150	
+C2164Bris	Manuja Kenny Suyanto	9/05/1963	4062	
+C2167Bris	Shangzhen Nguyen Tan	30/10/1993	4146	
+C2168Bris	Anneliese Menting Tan	19/07/1962	4096	
+C2169Bris	Matthew Kaimakamis Svensson	10/09/1977	4154	
+C216Bris	Arun Hassan Chan	3/08/1959	4079	
+C2170Bris	Paul Daswani Tang	9/08/1953	4090	
+C2171Bris	Henrique Vincent Tan	7/08/1985	4110	
+C2173Bris	Wendy Elizabeth Tang	10/05/1956	4148	
+C2183Bris	Ping Ling Tang	28/07/1960	4033	
+C2186Bris	Xun Vun Syah	26/03/1982	4001	
+C2187Bris	Elisa Macciolli Ta	11/10/1951	4026	
+C2188Bris	Esther Clive Tasevski	17/12/1962	4015	
+C2189Bris	Jack Ford Tang	16/05/1978	4021	
+C2190Bris	Chieh Chung Tasevski	12/06/1991	4051	
+C2191Bris	Louis Duan Tammy	23/03/1954	4045	
+C2192Bris	Ying Cheah Tang	1/07/1955	4108	
+C2194Bris	Weng Shea Tassi	23/10/1954	4040	
+C2195Bris	Martin Lim Tang	25/04/1954	4008	
+C2196Bris	Purwoko Jin Tassi	31/08/1969	4122	
+C2199Bris	Christina Anthony Tay	8/07/1980	4110	
+C219Bris	Benjamin Zenon Chan	4/12/1966	4117	
+C21Bris	Weng Ma Alvarado	15/06/1953	4062	
+C2202Bris	Jeffrey Alwuthaynani Teh	16/10/1996	4036	
+C2206Bris	Choon Isabel Taylor	4/04/1990	4101	
+C2207Bris	Sarah Chan Tang	9/09/1971	4074	
+C2210Bris	Victoria Fabricio Teng	5/05/1966	4109	
+C2212Bris	Peta Chin Teo	11/12/1962	4060	
+C2213Bris	Lillian Lin Tchea	12/09/1969	4159	
+C2215Bris	Ka Jamil Teo	19/12/1958	4105	
+C2218Bris	Peter Fallon Teo	27/12/1967	4099	
+C2219Bris	Alvin Ooi Tchung	26/01/1991	4087	
+C221Bris	Isabella Mulki Chan	24/02/1998	4066	
+C2220Bris	Justin Anggoro Terence	20/10/1964	4022	
+C2221Bris	Mun Robertson Tee	21/12/1976	4037	
+C2222Bris	Ping Michael Terence	13/05/1968	4138	
+C2224Bris	Arun Blanche Thir	15/08/1952	4125	
+C222Bris	Sujono Zhang Chan	2/08/1961	4084	
+C2232Bris	Chi Lui Thozhukkattu	10/10/1966	4049	
+C2236Bris	Daniel Hua Thozhukkattu	21/11/1992	4000	
+C2239Bris	Sim Elizabeth Thurecht	15/08/1973	4090	
+C2240Bris	Emily Catherine Thurecht	17/04/1963	4117	
+C2241Bris	Meera John Tham	17/11/1971	4044	
+C2242Bris	Peijia Rusli Tjandra	24/12/1970	4009	
+C2243Bris	Janet Fernanda Thuy	6/01/1969	4139	
+C2244Bris	Tomohito Pan Tham	21/10/1961	4033	
+C2245Bris	Yu Adam Tjie	7/09/1992	4148	
+C2247Bris	Katie Low Tjio	10/01/1957	4021	
+C2248Bris	Nan Lucas Thuy	6/09/1992	4036	
+C2249Bris	Chia Keung Tjondro	15/11/1956	4088	
+C224Bris	Ling Jin Chan	22/07/1983	4102	
+C2252Bris	Amalie Leong Thuy	27/01/1953	4091	
+C2255Bris	Chang Liang Tjongue	23/01/1996	4072	
+C2259Bris	Dewi Zhang Thay	15/03/1987	4103	
+C2260Bris	Tzu Michael Tjongue	8/02/1979	4149	
+C2263Bris	Xingda Kan To	23/08/1954	4012	
+C2265Bris	Ming Chua Tien	5/07/1956	4098	
+C2266Bris	Sarah Wijesekera Thay	26/02/1973	4048	
+C2268Bris	Timothy Spence-Pearse To	6/05/1952	4051	
+C2271Bris	Chia Paul Turetsky	23/01/1952	4149	
+C2272Bris	Robert Lee Tien	2/04/1993	4114	
+C2273Bris	Shangzhen Wong To	7/12/1997	4083	
+C2274Bris	Geoffrey Zhang To	17/02/1988	4097	
+C2275Bris	Justin Moon Turner	22/02/1960	4022	
+C2277Bris	Craig Luan Ting	9/09/1993	4059	
+C227Bris	Sabooh Isabel Chan	10/05/1982	4153	
+C2285Bris	Salman Julie Toh	29/08/1987	4123	
+C2289Bris	Fengmin Emmerich V	22/03/1962	4021	
+C228Bris	Tsz Chyi Chan	20/12/1950	4056	
+C2292Bris	Kanok Chui-Mei V	11/05/1952	4040	
+C2293Bris	Sree Ang Toh	27/03/1957	4010	
+C2294Bris	Ying Louise Tjandra	3/02/1985	4065	
+C2295Bris	Chhayraksmey Tsz Tjandra	12/05/1965	4122	
+C2296Bris	Hanny Beng Toh	21/09/1955	4065	
+C2297Bris	Qi Yuen V	30/07/1980	4090	
+C2298Bris	Venkataramana Marie Vegesna	30/12/1979	4032	
+C229Bris	Jingjing Ng Chan	30/11/1995	4112	
+C22Bris	Prasanna DelCiotto Alvarado	16/03/1990	4069	
+C2300Bris	Robert Zhou V	30/06/1984	4027	
+C2301Bris	Thomas Gray Vegesna	26/05/1993	4061	
+C2302Bris	Yifei Henry Tokura	13/06/1980	4005	
+C2305Bris	Rocio Lyn Tjandra	27/11/1996	4024	
+C2308Bris	Huan Ng V	30/01/1957	4062	
+C230Bris	Theodore Cameron Chan	22/01/1994	4148	
+C2312Bris	Prakash Alexander Tong	13/10/1952	4142	
+C2313Bris	Alex Allan Vadakkeveettil	19/07/1961	4137	
+C2316Bris	Katie Wong Vejar	24/07/1979	4048	
+C2318Bris	Peter Phillip Vainshtein	31/08/1988	4094	
+C2319Bris	Bill Kin Vainshtein	7/04/1999	4118	
+C231Bris	Wan Yuk Chan	22/04/1962	4068	
+C2321Bris	Katie Kan Trew	17/06/1957	4085	
+C2324Bris	Weng Feng Vainshtein	7/06/1997	4105	
+C2325Bris	Lachlan Phong Vernon	19/08/1968	4142	
+C2326Bris	Ning Victor Vanny	2/12/1988	4018	
+C2327Bris	Olivia Joowon Tsan	7/12/1997	4109	
+C2328Bris	Weijia Zeng Wai	26/05/1955	4077	
+C2330Bris	Julian Jimenez Vernon	30/06/1960	4102	
+C2338Bris	Chun Lin Vidhyakovit	19/09/1957	4060	
+C233Bris	Kwong Ho Chan	2/12/1956	4018	
+C2342Bris	Hooi-Ling Ming Wai	21/01/1961	4066	
+C2345Bris	Tural Timothy Vidhyakovit	18/06/1999	4091	
+C2346Bris	Yifei Pang Wai	19/05/1970	4052	
+C2347Bris	Hok Fei Vidhyakovit	26/03/1953	4144	
+C2348Bris	Jordan Wijewardena Vass	30/07/1955	4115	
+C2349Bris	Varesh Li Wajsbrem	13/06/1985	4118	
+C2350Bris	Juan Wan	29/09/1978	4029	2/03/2018
+C2350Bris	Juan Wan	29/09/1978	4139	
+C2352Bris	Lily Dsouza Villagomez	9/03/1967	4063	
+C2353Bris	Stefanus A Villagomez	30/01/1958	4013	
+C2354Bris	Tianyi Hong Wakista	14/04/1952	4080	
+C2357Bris	Gary Nagpaul Wang	6/01/1986	4121	
+C2360Bris	Robert Jonathan Villagomez	30/06/1964	4155	
+C2364Bris	Chun Chung Wang	1/03/1955	4004	
+C2365Bris	Hock Phaik Wallace	20/03/1978	4155	
+C2368Bris	Chao-Chih Hei Wallace	1/07/1978	4144	
+C2370Bris	Aurelio Tong Wang	18/10/1986	4118	
+C2371Bris	Ludmilla Chen Wang	24/07/1951	4027	
+C2373Bris	Jeffrey Danbo Wai	26/04/1956	4004	
+C2376Bris	Shu-Ket Duan Wang	8/09/1960	4043	
+C2377Bris	Sujono Rusli Wang	29/08/1957	4148	
+C2378Bris	Kam Yeung Wang	1/11/1953	4153	
+C2379Bris	Paul Lim Wang	25/06/1950	4108	
+C2380Bris	Carmen Earle Wang	29/03/1971	4012	
+C2382Bris	Hin Vipinchandra Wang	24/11/1951	4134	
+C2390Bris	Mei Stephens Wang	25/08/1966	4071	
+C2394Bris	Eddie Entwisle Wang	10/06/2000	4096	
+C2397Bris	Nicholas Sehmbi Wang	24/09/1958	4074	
+C2398Bris	Patrick Kei Wang	27/11/1998	4128	
+C2399Bris	Yifei Sie Wang	22/09/1992	4046	
+C23Bris	Bo-Youn Wandera Alwuthaynani	8/06/1953	4024	
+C2400Bris	Catherine Bello Wang	27/11/1992	4006	
+C2401Bris	Maree Yi Wang	13/03/1954	4013	
+C2402Bris	Chandra Hua Wang	31/10/1956	4102	
+C2403Bris	Ming Fitradi Wang	1/08/1992	4104	
+C2405Bris	Sreenath Lin Wang	18/12/1962	4033	
+C2406Bris	Leon Wandera Weng	24/02/1960	4024	
+C2407Bris	Hok Buxton Weng	7/10/1952	4096	
+C2410Bris	Amalie George Weng	21/06/1953	4031	
+C2413Bris	Eugene Gerald Wang	25/06/1998	4012	
+C2417Bris	Tengteng Tze Wibowo	29/04/1952	4026	
+C2418Bris	Ying Pattali Wei	2/04/1967	4045	
+C2421Bris	Marcus James Wibowo	3/03/1958	4078	
+C2423Bris	Charles Juliana Wibowo	7/03/1961	4019	
+C2424Bris	Sally Yen Wei	4/03/1984	4112	
+C2426Bris	Robert Wong Wibowo	15/09/1977	4128	
+C2429Bris	Justin Widjaya Wilson	19/01/1966	4147	
+C2430Bris	Margaret Yan Wilson	29/10/1987	4031	
+C2431Bris	Megan Thomas Widjaja	4/11/1977	4099	
+C2432Bris	Peijia Law Wei	16/02/1959	4037	
+C2433Bris	Maria Chow Wilson	9/11/1993	4070	
+C2435Bris	Robyn Tuyet Widjaja	28/04/1956	4091	
+C2443Bris	Mark Soo Wong	14/10/1968	4109	
+C2447Bris	Dewi Maree Wong	21/08/1950	4043	
+C244Bris	Urmila Yi-Min Chan	18/05/1958	4043	
+C2450Bris	Mithila Soerjono Wong	21/01/1969	4117	
+C2451Bris	Shirlina Ming William	17/01/1954	4123	
+C2452Bris	Sue Nigro Woodford	8/06/1989	4129	
+C2453Bris	Wendy Andrew Wong	31/07/1966	4137	
+C2454Bris	Anthony Jen Wong	8/04/1959	4008	
+C2455Bris	Hui Pui Woodford	28/02/1959	4144	
+C2456Bris	Jarrod Daniel William	16/11/1997	4158	
+C2458Bris	Shirley Lakshmi Woodford	31/08/1981	4022	
+C2459Bris	Zhanibek Liang Wong	26/01/1951	4058	
+C2460Bris	Feiyi Tjongue Wong	23/07/1967	4103	
+C2463Bris	Ka Saha Wilmot	15/09/1964	4119	
+C2466Bris	David Sigit Wong	14/07/1999	4123	
+C2470Bris	David Entwisle Wilson	23/09/1970	4023	
+C2471Bris	Stewart Ng Wu	28/08/1957	4062	
+C2474Bris	Pablo Low Wong	1/03/1956	4040	
+C2476Bris	Jingjing James Wong	8/04/1977	4019	
+C2477Bris	Winnie Mccleary Wu	26/12/1952	4145	
+C2479Bris	Hai-Fan Deng Wu	6/09/1979	4145	
+C247Bris	Purwoko Elizabeth Chang	26/05/1990	4078	
+C2482Bris	Jiale Lim Wong	23/04/1973	4036	
+C2483Bris	Maria Dong Wu	26/10/1960	4069	
+C2484Bris	Nima Siddique Xiang	11/07/1999	4023	
+C2485Bris	Gabriela Alzahrani Xiao	23/03/1955	4067	
+C2486Bris	Gustavo Wong Wu	10/11/1973	4032	
+C2488Bris	Aleck Chye-Hwa Wu	7/12/1951	4153	
+C248Bris	Shawn Colin Chang	28/04/1953	4017	
+C2496Bris	Michael Thurecht Xie	27/08/1987	4104	
+C249Bris	Chuyang Brian Chang	30/04/1964	4019	
+C24Bris	Jessica Danbo Alwuthaynani	25/02/1955	4057	
+C2500Bris	Ashish Suyanto Wu	30/03/1987	4069	
+C2503Bris	Fei Zoma Wong	15/02/1975	4077	
+C2504Bris	Julia Shi Xie	6/01/1949	4152	
+C2505Bris	Paul Yau Wu	28/05/1956	4024	
+C2506Bris	Ka-Lam Adam Xu	24/04/1994	4113	
+C2507Bris	Helena Wan Xu	20/04/1970	4078	
+C2508Bris	Jason Kee Wong	16/04/1985	4092	
+C2509Bris	Margaret Sun Wu	15/11/1975	4027	
+C250Bris	Ka-Lam Sorrell Chang	11/12/1998	4144	
+C2511Bris	David Menting Xu	23/02/1980	4073	
+C2512Bris	Karen Joanne Wong	5/05/1958	4107	
+C2513Bris	Mingyu Thornton Xu	21/02/1991	4063	
+C2516Bris	Kevin Ch'ien Wong	17/08/1953	4075	
+C2519Bris	Glen Peter Xu	25/05/1982	4106	
+C251Bris	Benjamin Yu Chang	7/07/1972	4041	
+C2523Bris	Eng Chan Wong	2/12/1997	4118	
+C2524Bris	Greg Chen Wu	21/03/1960	4144	
+C2527Bris	Siqi Wei-Yang Xiang	25/10/1970	4145	
+C2529Bris	Tristram Leung Wong	17/08/1956	4066	
+C252Bris	Igor Alberto Chang	23/06/1958	4076	
+C2530Bris	Xin Awan Xu	7/01/1963	4116	
+C2532Bris	Shangzhen Adam Xu	24/03/1985	4100	
+C2535Bris	David Alexander Xu	22/02/1961	4065	
+C2536Bris	Alison Kistler Xu	8/02/1956	4109	
+C2537Bris	Gary Triswardono Xu	24/08/1958	4022	
+C2538Bris	Cary Chia Xu	28/09/1998	4012	
+C2539Bris	Thao Anuraag Xu	9/06/1958	4042	
+C253Bris	Rakkhi Lorenzo Chang	6/06/1997	4135	
+C2541Bris	Patrick Li Xu	21/09/1989	4106	
+C2549Bris	Xun Xu Xu	14/07/1970	4043	
+C2553Bris	Jonathan Hume Yan	16/10/1965	4151	
+C2556Bris	Aleck Pattali Yan	18/02/1974	4148	
+C2557Bris	Martin John Yao	8/12/1997	4076	
+C2558Bris	Ankur Carroll Yan	29/03/1995	4138	
+C2559Bris	Andy Yan	15/04/1998	4071	
+C255Bris	Jason Armstrong Charles	13/01/1963	4127	
+C2560Bris	Pablo Xu Yan	20/08/1963	4108	
+C2561Bris	Vonny Wakista Yan	28/10/1949	4030	
+C2562Bris	Marcus Aggarwal Yarwood	26/11/1979	4147	
+C2564Bris	Man Heng Yeh	8/06/1958	4085	
+C2565Bris	Emily Choon Yeo	21/11/1954	4019	
+C2566Bris	Sarah Michael Yeo	9/04/1961	4066	
+C2569Bris	Kun Leng Yeung	27/02/1965	4152	
+C256Bris	Natasha Kai Charles	30/09/1988	4029	
+C2572Bris	Lawrence Singh Yeung	28/06/1955	4099	
+C2576Bris	Phew Robertson Yeung	26/09/1999	4057	
+C2577Bris	Hong John Yeung	26/07/1998	4082	
+C257Bris	Mengxue Chai Charles	29/12/1986	4110	
+C2580Bris	Hao Yeen Yew	6/07/1998	4137	
+C2582Bris	Anna Heng Yezhuvath	5/09/1989	4027	
+C2583Bris	Fiona Joan Yezhuvath	11/06/2000	4134	
+C2585Bris	David Sun Yezhuvath	10/07/1997	4077	
+C2588Bris	Michael Collin Yi	30/07/1984	4088	
+C2589Bris	Leo McIlroy Yin	11/07/1955	4048	
+C2590Bris	Sijing Yang Yin	26/10/1961	4128	
+C2591Bris	Chun Ford Yin	2/11/1998	4117	
+C2592Bris	Yunfei Siok Yin	30/11/1955	4107	
+C2594Bris	Ross Timothy Yin	12/01/1958	4100	
+C25Bris	Igor Hwei Alwuthaynani	21/05/1981	4131	
+C2602Bris	Denis Armansyah Yip	10/02/1982	4073	
+C2606Bris	Jingyi Hu Yu	9/11/1993	4123	
+C2609Bris	Jeffrey Sun Yu	15/07/1975	4049	
+C260Bris	Pearl Gordon Charles	12/04/1998	4154	
+C2610Bris	Seung Triswardono Yong	26/09/1957	4070	
+C2611Bris	Mun Weber Yu	8/05/1989	4074	
+C2612Bris	Nathalia Prasanga Yong	24/07/1982	4147	
+C2613Bris	Alice Wong Yu	28/05/1951	4088	
+C2614Bris	Wan Belilovsky Yoong	13/11/1959	4148	
+C2615Bris	Pablo Matheu Yuan	26/08/1964	4024	
+C2617Bris	Luke Cheong Yuan	16/06/1986	4064	
+C2618Bris	Qi Silviana Yu	12/04/1968	4122	
+C2619Bris	Hin Triswardono Yusoff	30/07/1994	4079	
+C2622Bris	Lu Abela Yusoff	3/09/1957	4122	
+C2625Bris	Robyn Xue Yusuf	11/04/1959	4075	
+C2629Bris	Woo-Jung Loong Zajac	6/06/1977	4030	
+C2630Bris	Angela Chu Zajac	23/09/1953	4051	
+C2633Bris	Shreyak Berlin Yun	26/12/1996	4097	
+C2635Bris	Tiehua Hossain Zeng	9/04/1950	4074	
+C2636Bris	Jacqueline John Yun	9/01/1960	4050	
+C2638Bris	George Chung Zhai	18/06/1951	4142	
+C263Bris	Ting Chua Chauhan	30/11/1978	4028	
+C2641Bris	Fang Edward Zhang	8/12/1951	4112	
+C2642Bris	Shuangchao Nensi Zhang	11/05/1952	4041	
+C2643Bris	Robert Yong Zhang	12/05/1998	4042	
+C2644Bris	Stella Beng Zhang	16/05/1984	4028	
+C2645Bris	Donny Lin Zhang	16/12/1969	4032	
+C2647Bris	Alexis Nicholas Zhang	20/07/1998	4134	
+C2655Bris	Li Esteban Zhao	23/03/1975	4139	
+C2659Bris	Phillip Jin Zhou	13/02/1953	4154	
+C2662Bris	David Alnozha Zhao	23/05/1956	4096	
+C2663Bris	Yongchao Beng Zhou	18/05/1961	4120	
+C2664Bris	Daniel Stuart Zhou	18/01/1953	4057	
+C2665Bris	Hongtao Rogers Zheng	8/07/1996	4053	
+C2666Bris	Eka Tsang Zhou	8/03/1967	4152	
+C2667Bris	Yuanxi Friedman Zheng	6/10/1990	4021	
+C2668Bris	Nathan Tang Zheng	15/06/1959	4080	
+C2670Bris	Sandra Weber Zhou	19/02/1956	4138	
+C2671Bris	Zheo Foo Zhou	7/07/1985	4127	
+C2672Bris	Dang Cheung Zhou	1/09/1954	4060	
+C2675Bris	Daniel Ng Zhou	30/08/1975	4112	
+C2678Bris	Tanuj Clare	29/11/1958	4145	
+C267Bris	Priya Ling Cheah	2/03/1979	4128	
+C2682Bris	Ryan Fok Zhu	8/08/1957	4048	
+C2683Bris	Marie Timothy Zoghi	10/04/1995	4144	
+C2686Bris	Martin Yi	9/12/1969	4071	
+C2688Bris	Jason Blanche	10/11/1997	4056	
+C2689Bris	Winarto Loo Zoghi	26/03/1978	4078	
+C268Bris	Nelson Isabel Cheah	10/09/1979	4057	
+C2691Bris	Gerwin Hooi Zoghi	11/01/1997	4080	
+C2694Bris	Tai Fang	9/03/1984	4077	
+C2695Bris	Josh Sydney	16/04/1958	4059	
+C2696Bris	Gustavo Mulki Zutt	20/08/1995	4009	
+C2697Bris	Kanok Salim	24/07/1953	4072	
+C2698Bris	Seng Tsun	20/01/1955	4055	
+C2700Bris	James Ng Zutt	14/07/1955	4061	
+C2708Bris	Benjamin Nhu Zwar	28/03/1975	4097	
+C2712Bris	Dharmapoetra Sarah	10/03/2000	4121	
+C2715Bris	Gangani Hume	23/05/1997	4115	
+C2716Bris	Stanley Leon	23/03/1966	4062	
+C2717Bris	Privantha Jane	6/10/1955	4127	
+C2718Bris	Vincent Bagus	9/09/1961	4110	
+C2719Bris	Yicun Allan	20/02/1961	4132	
+C271Bris	Daniel Stephen Chen	20/01/1952	4023	
+C2720Bris	Carl Chan	15/12/1984	4024	
+C2721Bris	Felix Ming	20/12/1947	4132	
+C2723Bris	Huey Jenkins	25/12/1952	4047	
+C2724Bris	Iong Grattidge	26/06/1952	4034	
+C2725Bris	Leonard Yuen	22/02/1953	4102	
+C2728Bris	Felix Rong	14/01/1957	4128	
+C2731Bris	Muhammad Pui	23/02/1958	4126	
+C2735Bris	Greg Fitradi	5/12/1960	4004	
+C2736Bris	Yili Hovelt	28/06/1987	4153	
+C2739Bris	Chang Siourthas	19/08/1990	4042	
+C273Bris	Yili Pau Chen	22/02/1984	4110	
+C2741Bris	Cassio Mohammed	23/05/1998	4025	
+C2742Bris	Thanh Hodder	1/05/1971	4033	
+C2744Bris	Kei Nishimoto	31/05/1982	4005	
+C2747Bris	Siobhan Usama	22/10/1968	4031	
+C2748Bris	Kun Chen	19/04/1955	4096	
+C2749Bris	Ricky Yu-Wen	7/12/1950	4131	
+C274Bris	Miller Santos Chen	22/02/1997	4019	
+C2750Bris	David Tang	7/06/1998	4109	
+C2751Bris	Marie Chung	5/09/1988	4002	
+C2753Bris	Justin Francisco	31/10/1953	4104	
+C2761Bris	Sui Castrey	18/07/1991	4083	
+C2765Bris	Fangning La	18/08/1953	4071	
+C2768Bris	Anthony Andrew	7/02/1996	4001	
+C2769Bris	Sujatha Hooi	16/03/1954	4096	
+C276Bris	Benjamin Choon Chen	12/07/1967	4035	
+C2770Bris	Zabe Tang	29/09/1959	4015	
+C2771Bris	Audrey Chong	6/05/1998	4075	
+C2772Bris	Leon Anuraag	20/10/1966	4097	
+C2773Bris	Shenn Goh	11/08/1951	4026	
+C2774Bris	Juan Guangjin	21/11/1958	4059	
+C2776Bris	Shuangchao Au	8/06/1967	4149	
+C2777Bris	Limelda Siu	29/07/1965	4158	
+C2778Bris	Reshma Tien	22/06/1960	4045	
+C2781Bris	Manicks Edward	21/12/1988	4040	
+C2784Bris	Pik Ruwin	21/08/1952	4032	
+C2788Bris	Vonny Tong	26/04/1951	4021	
+C2789Bris	Hai-Fan Yek	28/10/1979	4114	
+C2792Bris	Alexis Chan	22/04/1955	4038	
+C2794Bris	Kuan-Yu Wong	30/07/1959	4111	
+C2795Bris	Tsz John	19/12/1994	4055	
+C2797Bris	Tiehua Browne	6/10/1959	4147	
+C279Bris	Ling Zenon Chen	10/12/1979	4020	
+C27Bris	David Dedeche Alwuthaynani	24/04/1982	4148	
+C2800Bris	Janine Regmi	10/09/1958	4063	
+C2801Bris	Vincent Chun	4/07/1957	4089	
+C2802Bris	Jorge Sun	6/09/1959	4066	
+C2803Bris	Nan Lakshmi	30/04/1998	4083	
+C2804Bris	Wan Thornton	18/07/1952	4054	
+C2806Bris	Thomas Nhu	9/06/2000	4055	
+C280Bris	Fangning Tong Chen	19/04/1994	4010	
+C2814Bris	Andrew Shen	28/08/1967	4022	
+C2818Bris	Nouras Lo	22/04/1961	4094	
+C281Bris	Justin Riadh Chen	21/01/1965	4012	
+C2821Bris	Ee Ransley	8/03/1963	4063	
+C2822Bris	Fei Ali	30/07/1955	4069	
+C2823Bris	Louis Wijesekera	4/04/1957	4021	
+C2824Bris	Armando Cheng	23/01/1977	4115	
+C2825Bris	Iong Nhu	29/01/1993	4145	
+C2826Bris	Zheng Grinberg	25/08/1975	4067	
+C2827Bris	Lawson Kesari	31/05/1954	4037	
+C2829Bris	Gangani Simon	5/12/1952	4150	
+C282Bris	Meng Chen Chen	10/12/1951	4087	
+C2830Bris	Johannes Daniel	5/01/1952	4005	
+C2831Bris	Mengxue Matheu	15/06/1980	4036	
+C2834Bris	Anneliese Siourthas	4/06/1959	4154	
+C2837Bris	Lachlan Luke	2/03/1954	4036	
+C283Bris	Tomohito Ting Chen	7/11/1993	4097	
+C2841Bris	Li Kwok	19/10/1960	4012	
+C2842Bris	Chia Yee	15/06/1988	4155	
+C2845Bris	Shuangchao Emily	6/12/1979	4052	
+C2847Bris	Stanley Kistler	24/01/1952	4082	
+C2848Bris	Dang Rivera	31/01/1997	4060	
+C2850Bris	Bing Tien	4/11/1963	4147	
+C2853Bris	Jason Lam	22/04/1968	4139	
+C2854Bris	Kai Elizabeth	10/06/1952	4144	
+C2855Bris	Haiyan Hong	15/05/1954	4079	
+C2856Bris	Robert San	3/01/1953	4059	
+C2857Bris	Chun C	9/04/1951	4119	
+C2859Bris	Teng Sigit	17/07/1963	4113	
+C285Bris	David Khanna Chen	9/11/1981	4015	
+C2867Bris	Debbie Carolyn	19/05/1974	4020	
+C2871Bris	Sriram Kai	6/09/1973	4021	
+C2874Bris	Tzu Lok	7/07/1985	4033	
+C2875Bris	Vaishnavi Chi	16/12/1966	4137	
+C2876Bris	Qorib Yan	16/11/1953	4046	
+C2877Bris	Kian Cheng	3/10/1958	4107	
+C2878Bris	David Septina	5/10/1982	4028	
+C2879Bris	Gary Gabriel	9/02/1952	4128	
+C2880Bris	Sujatha Himanshu	19/02/1961	4096	
+C2882Bris	Sze Maria	8/07/1958	4030	
+C2883Bris	Hsiao Ong	12/01/1982	4111	
+C2884Bris	Vaishnavi John	31/05/1983	4012	
+C2887Bris	Renji Sun	6/07/1973	4003	
+C2890Bris	David Khaw	8/01/1955	4093	
+C2894Bris	Maree Ho	5/11/1997	4089	
+C2895Bris	Benjamin Kumar	17/02/1974	4123	
+C2898Bris	Margaret Sangsurane	19/04/1991	4021	
+C2900Bris	Kei Lau	17/09/1999	4111	
+C2901Bris	Ludmilla Stert	3/11/1951	4031	
+C2903Bris	Marc Ann-Lin	6/10/1975	4002	
+C2906Bris	Xingyu Joan	22/10/1952	4017	
+C2907Bris	Henrique Chandra	5/07/1954	4121	
+C2908Bris	Stefanus Stewart	8/08/1963	4057	
+C2909Bris	Fajar Brian	12/10/1949	4105	
+C2910Bris	Michael Halim	29/12/1961	4027	
+C2912Bris	Bree Fang	15/12/1949	4059	
+C2920Bris	Carl Kheong	5/09/1959	4080	
+C2924Bris	Katie Elizabeth	3/03/1964	4114	
+C2927Bris	Oliver Li	17/11/1947	4040	
+C2928Bris	Shreyak Halim	14/10/1990	4060	
+C2929Bris	Miao Brian	13/10/1965	4109	
+C2930Bris	Emine Ho	6/04/1995	4117	
+C2931Bris	Stefanus Ang	4/09/1951	4137	
+C2932Bris	Mun John	27/06/1985	4155	
+C2933Bris	Alex Shakespeare	28/07/1955	4037	
+C2935Bris	Jiajie Barnes	26/11/1953	4149	
+C2936Bris	Paul Yuen	28/02/1963	4051	
+C2937Bris	Matthew Nicholas	21/03/1991	4055	
+C293Bris	Greg Morris Chen	19/01/1980	4056	
+C2940Bris	Kia Ong	16/01/1964	4050	
+C2943Bris	Kamia Chan	6/04/1953	4066	
+C2947Bris	Xin Soo	2/01/1951	4082	
+C2948Bris	Waleed Lee	21/03/1946	4070	
+C2951Bris	Shan Carolyn	4/10/1998	4096	
+C2953Bris	Carmen Lo	5/06/1971	4104	
+C2954Bris	Kwan She	19/07/1975	4157	
+C2956Bris	Clarence Tze	1/12/1991	4073	
+C2959Bris	Nigel Sun	15/11/1985	4150	
+C2960Bris	Feiyi Farn	29/01/1961	4065	
+C2961Bris	Mei Tsz	29/12/1975	4122	
+C2962Bris	Prakash Mark	27/04/1991	4107	
+C2963Bris	Janine Law	8/03/1955	4054	
+C2965Bris	Jacqueline Palaniappan	5/07/1951	4127	
+C2973Bris	Anneliese Melchor	16/03/1974	4051	
+C2977Bris	Miu Liu	16/09/1949	4011	
+C297Bris	Sang Lun Chen	20/05/1957	4085	
+C2980Bris	Stanley Septina	3/01/1964	4068	
+C2981Bris	Vincent Nhu	31/08/1995	4148	
+C2982Bris	Chi Riadh	3/09/1965	4077	
+C2983Bris	Shenn Jin	22/05/1955	4032	
+C2984Bris	Di Suresh	26/07/1986	4054	
+C2985Bris	Hanny Elizabeth	1/11/1970	4159	
+C2986Bris	Steven Tassi	6/10/1991	4017	
+C2988Bris	Sampson Wah	24/06/1960	4075	
+C2989Bris	Chek Cheung	8/10/1986	4004	
+C2990Bris	Dinni Errol	5/04/1972	4020	
+C2993Bris	Bahiyah Marie	24/10/1951	4001	
+C2996Bris	Sharon Chan	11/01/1952	4119	
+C3000Bris	Gerwin Ren	6/02/1966	4155	
+C3001Bris	Joshua Elizabeth	29/08/1981	4007	
+C3004Bris	Chenguang Hesketh	19/12/1992	4117	
+C3006Bris	Oi Anne	12/04/1989	4127	
+C3007Bris	David Kee	12/03/1977	4141	
+C3009Bris	David Yen	9/02/1976	4129	
+C300Bris	Yongky Patricio Chen	11/02/1954	4017	
+C3012Bris	Greg L'Hotellier	14/06/1951	4103	
+C3013Bris	Peter Geoffrey	20/07/1957	4114	
+C3014Bris	Fei Entwisle	7/08/1979	4038	
+C3015Bris	Mingyu Wong	12/09/1955	4059	
+C3016Bris	Gagan Chi	17/01/1978	4111	
+C3018Bris	Arun Bromhead	8/05/1959	4155	
+C301Bris	Ashish Andres Chen	9/06/1980	4048	
+C3026Bris	Heen Knight	27/05/1952	4078	
+C302Bris	Chor Mary Chen	3/03/1972	4058	
+C3030Bris	Yin Hirsinger	13/08/1966	4106	
+C3033Bris	Alison Russell	9/07/2000	4143	
+C3034Bris	Oliver Chiu	19/10/1953	4087	
+C3035Bris	Farah Tan	11/01/1991	4140	
+C3036Bris	Samathara Catherine	30/12/1949	4038	
+C3037Bris	Emi Leung	26/03/2000	4024	
+C3038Bris	Jiacheng Ho	3/02/1957	4142	
+C3039Bris	Andrew Yiu	8/12/1996	4129	
+C303Bris	Sue Kit Chen	18/09/1960	4055	
+C3041Bris	Alisha Sagawa	4/12/1957	4020	
+C3042Bris	Karen Rivera	8/10/1957	4131	
+C3043Bris	Hok The	10/06/1983	4115	
+C3046Bris	Vincent Siu	24/08/1960	4042	
+C3049Bris	Yanni Martinez	3/04/1961	4083	
+C304Bris	Waleed Martin Chen	26/07/1953	4104	
+C3053Bris	Chun Renwick	26/05/1996	4146	
+C3054Bris	Sonny Eddes	29/06/1956	4144	
+C3057Bris	Sandra Chek	3/08/1987	4119	
+C3059Bris	Tong Mak	18/09/1980	4128	
+C305Bris	Barry Bryce Chen	5/03/1977	4059	
+C3060Bris	Claudia Prasanga	19/05/1994	4131	
+C3062Bris	Matthew Itthianuwat	31/03/1964	4144	
+C3065Bris	Xin Ng	11/05/1996	4070	
+C3066Bris	Anastasia Purvis	4/08/1978	4088	
+C3067Bris	Benjamin Yee	26/10/1957	4158	
+C3068Bris	Jinming Ing	7/02/1996	4130	
+C3069Bris	Megan Sung-Chit	21/12/1964	4025	
+C306Bris	Cheryl Yau Chen	13/04/1997	4097	
+C3071Bris	Ka John	21/09/1979	4057	
+C3079Bris	Yichen Plotnikov	13/08/1998	4127	
+C3083Bris	Xueqiang Wanzee	10/11/1990	4058	
+C3086Bris	Chee Sze	7/09/1960	4091	
+C3087Bris	Thao Chan	21/05/2000	4056	
+C3088Bris	Yingshuang Usama	24/03/1958	4072	
+C3089Bris	Ross Li	20/07/1981	4073	
+C308Bris	Xin Robert Chen	28/01/1958	4115	
+C3090Bris	Anthony Romero	21/08/1951	4039	
+C3091Bris	Kei Leng	12/04/1972	4003	
+C3092Bris	Xueyang de	2/02/1963	4120	
+C3094Bris	Ming Damelio	25/07/1965	4041	
+C3095Bris	Vanessa-Cam Martin	17/08/1955	4079	
+C3096Bris	Kian Teik	26/12/1987	4018	
+C3099Bris	Kwong Li	4/08/1966	4046	
+C309Bris	Nathan Naseer Chen	1/10/1953	4152	
+C3102Bris	David Yusuf	27/03/1957	4114	
+C3106Bris	Jiale Mall	4/07/1971	4112	
+C3107Bris	Tsu Pacharakiraikul	2/10/1978	4093	
+C310Bris	Wanyu Wei-En Chen	1/12/1950	4014	
+C3110Bris	Yee Thir	24/06/1973	4076	
+C3112Bris	Mohd Li	25/03/1956	4122	
+C3113Bris	Mun Russell	21/01/1970	4072	
+C3115Bris	Tsz Ling	27/09/1979	4104	
+C3118Bris	Chi Junior	24/02/1997	4104	
+C3119Bris	Deko Yang	11/12/1954	4015	
+C3120Bris	James Samarasekera	6/03/1990	4135	
+C3121Bris	Chih-En Wah	25/12/1995	4033	
+C3122Bris	Nidah Budiono	11/07/1959	4124	
+C3124Bris	Arun Yave	12/08/1977	4102	
+C3132Bris	Gaurav Li	4/12/1990	4035	
+C3136Bris	Claudia Pathan	16/04/1972	4030	
+C3139Bris	Chun Yin	26/01/1993	4028	
+C313Bris	Man Matthew Chen	20/05/1964	4149	
+C3140Bris	David Albina	4/10/1950	4048	
+C3141Bris	Greg Grinberg	9/08/1956	4134	
+C3142Bris	Lye Andrew	12/12/1951	4158	
+C3143Bris	Peter Tjondro	16/05/1959	4045	
+C3144Bris	Russell Diep	10/09/1972	4086	
+C3145Bris	Anish Zhao	30/06/1968	4008	
+C3147Bris	Leo Leng	3/05/1970	4020	
+C3148Bris	Meera Ji	22/02/1987	4099	
+C3149Bris	Pee Brown	6/08/1964	4033	
+C3152Bris	Kalyan Ye	23/09/1986	4081	
+C3155Bris	Ganglei Yoong	6/06/1957	4017	
+C3159Bris	David Li	21/11/1954	4067	
+C3160Bris	Mark Elizabeth	6/06/1978	4052	
+C3163Bris	Chih-En Geoffrey	3/07/1953	4042	
+C3165Bris	Qi Macdonald	15/09/1990	4028	
+C3166Bris	Chek L'Hotellier	17/06/1986	4013	
+C3168Bris	Kent Yeen	1/03/1988	4136	
+C316Bris	Darina Shen Cheng	13/01/1999	4070	
+C3171Bris	Sang Mendoza	26/01/1979	4054	
+C3172Bris	Ta Lin	15/01/1951	4079	
+C3173Bris	Vivek Gray	28/03/1959	4142	
+C3174Bris	Chengyang Kwok	29/07/1998	4094	
+C3175Bris	Janine M	9/04/1991	4016	
+C3177Bris	Bo-Youn Cheng	8/07/1958	4146	
+C3185Bris	Sirui Ng	13/07/1957	4071	
+C3189Bris	Anjan Tasevski	9/03/1979	4128	
+C3192Bris	Beo-Deul Chyi	17/07/1982	4118	
+C3193Bris	James -	20/05/1953	4109	
+C3194Bris	Mark Wen	7/01/1968	4078	
+C3195Bris	Chon Chung	30/11/1954	4069	
+C3196Bris	Graciela Johnston	11/10/1997	4037	
+C3197Bris	Jikang Cheng	27/10/1968	4065	
+C3198Bris	Bo-Youn Dishantha	8/01/1970	4023	
+C3200Bris	Ting Ming	1/02/2000	4028	
+C3201Bris	Brett Lin	16/03/1953	4043	
+C3202Bris	Jin Soneville	28/02/1994	4002	
+C3205Bris	Chengen Fook	1/06/1958	4132	
+C3208Bris	Benjamin Li	6/08/1985	4146	
+C320Bris	Shirley Tsomaropoulos Chong	23/11/1967	4016	7/07/2017
+C320Bris	Shirley Tsomaropoulos Chong	23/11/1967	4124	
+C3212Bris	Muhamad Bagus	21/05/1951	4048	
+C3213Bris	Rong Ochoa	27/09/1962	4125	
+C3216Bris	Manicks Pearson	3/12/1964	4079	
+C3218Bris	Peter Widjaja	25/10/1986	4159	
+C3219Bris	Robin Menting	26/10/1960	4098	
+C3221Bris	Lye Rakshit	14/04/1953	4122	
+C3224Bris	Julian Yenny	4/04/1997	4031	
+C3225Bris	Sok Bairstow	21/02/1999	4086	
+C3226Bris	Mayumi Ch'ien	17/09/1963	4103	
+C3227Bris	Timothy Kee	1/03/1960	4126	
+C3228Bris	Weng Vainshtein	15/11/1977	4105	
+C3230Bris	Robert Mckenna	12/08/1960	4052	
+C3238Bris	Mei Wayne	26/06/1994	4158	
+C323Bris	Kanok Turner Chen	11/08/1952	4132	
+C3242Bris	Warren Romero	7/01/1969	4081	
+C3245Bris	How Wing-Chi	10/12/1965	4144	
+C3246Bris	Thai Hwa	2/10/1959	4071	
+C3247Bris	Zeyu Siu	9/06/1993	4149	
+C3248Bris	David Tan	22/10/1983	4054	
+C3249Bris	Joshua Fay	28/11/1982	4137	
+C3250Bris	Ka Lin	16/04/1969	4136	
+C3251Bris	Tony Lakshmi	13/02/1955	4003	
+C3253Bris	Farah San	16/02/1976	4137	
+C3254Bris	Jiacheng Yang	15/05/1957	4125	
+C3255Bris	Nishant Stewart	27/03/1995	4151	
+C3258Bris	Ting Tan	23/12/1988	4142	
+C325Bris	Yue Ho Chen	28/02/1985	4005	
+C3261Bris	Jeffrey Meng	26/04/1978	4157	
+C3265Bris	Eli Junior	21/08/1968	4056	
+C3266Bris	Lingjie E	31/03/1980	4131	
+C3269Bris	Yuan Stuart	23/09/1954	4007	
+C326Bris	Kam Carrera Cheng	21/12/1954	4149	
+C3271Bris	Ivan M	18/02/1995	4148	
+C3272Bris	Milisha Bryce	3/02/1998	4148	
+C3274Bris	Theresa Chan	9/09/1972	4119	
+C3277Bris	Eka Eduardo	30/11/1956	4136	
+C3278Bris	Ming Mah	29/03/1982	4105	
+C3279Bris	Claudia John	27/07/1987	4117	
+C3280Bris	Dong Heinicke	28/06/1999	4063	
+C3281Bris	Sonny Yuen	22/08/1966	4128	
+C3283Bris	David Lee	14/03/1999	4071	
+C328Bris	Barry  Cheng	23/06/1987	4034	
+C3291Bris	Cynthia Michael	25/03/1969	4026	
+C3295Bris	Chin Scott	18/10/1954	4009	
+C3298Bris	Yuxuan Chen	4/07/1959	4150	
+C3299Bris	Andrea Campbell	31/10/1967	4087	
+C32Bris	Diana Esteban Andrew	10/11/1992	4103	
+C3300Bris	Paul Jovi	29/09/1956	4003	
+C3301Bris	Wee Felix	22/12/1958	4042	
+C3302Bris	Yee Howie	17/10/1981	4138	
+C3303Bris	Gonzalo Yeung	27/09/1986	4112	
+C3304Bris	Jeffrey Zhang	17/05/1952	4045	
+C3306Bris	Li Matthew	23/02/1959	4108	
+C3307Bris	Henni Ling	21/12/1953	4115	
+C3308Bris	Ning Wang	20/11/1986	4100	
+C3311Bris	Yuxuan Chang	21/01/1966	4068	
+C3314Bris	Jason Beverly	8/05/1959	4064	
+C3318Bris	Michael Wonderland	5/03/1962	4001	
+C3319Bris	Thai Elizabeth	25/09/1992	4001	
+C331Bris	Eugene James Cheng	29/07/1969	4094	
+C3322Bris	Leo Suliman	22/02/1992	4042	
+C3324Bris	Eugene Fraser	13/10/1979	4069	
+C3325Bris	Maree Shaker	4/11/1991	4150	
+C3327Bris	Suhrid McIlroy	20/09/1999	4001	
+C332Bris	Jason Yeh Cheryl	12/04/1954	4072	
+C3330Bris	Amul Chen	28/11/1966	4039	8/01/2017
+C3330Bris	Amul Chen	28/11/1966	4006	
+C3331Bris	Trong Che-Ho	27/09/1954	4110	
+C3332Bris	Jacky Jin	16/04/1949	4104	
+C3333Bris	Matthew Wayne	29/07/1954	4129	
+C3335Bris	Wai Mccleary	5/07/1952	4151	
+C333Bris	Louis Achamma Chew	3/03/1999	4124	
+C3343Bris	Peter Heung	2/05/1959	4030	
+C3347Bris	David Che-Ho	5/06/1957	4095	
+C334Bris	Felicity Keung Cheryl	19/05/1996	4157	
+C3350Bris	Daniel Fong	13/02/1960	4125	
+C3351Bris	Hsiao Rusli	12/06/1951	4108	
+C3352Bris	Jikang Li	13/06/1996	4041	
+C3353Bris	Pou Wai-Yin	8/01/1985	4055	
+C3354Bris	Sumeet Nensi	26/01/1999	4152	
+C3355Bris	Felicity Yin	14/04/1997	4066	
+C3356Bris	Graciela Pham	10/08/1973	4052	
+C3358Bris	Michael Jorge	11/07/1963	4022	
+C3359Bris	Sreenath Man-Wai	8/02/1997	4091	
+C335Bris	Nguyen Alexander Cheng	14/12/1971	4050	
+C3360Bris	Debojyoti Ling	13/06/1985	4004	
+C3363Bris	Purwoko Tse	27/11/1982	4159	
+C3366Bris	Jono Cheung	11/02/1965	4043	
+C3370Bris	Alisha Cheng	19/10/1993	4072	
+C3371Bris	Andrea Chiu	30/08/1998	4125	
+C3374Bris	Qing Man	18/03/1954	4134	
+C3376Bris	Kwet Ma	17/07/1987	4053	
+C3377Bris	Liang Fay	27/07/1985	4133	
+C3379Bris	Robin Hodder	11/01/1952	4153	
+C337Bris	Jackie Fook Cheryl	29/07/1958	4103	
+C3382Bris	Jie Yong-Whi	24/02/1974	4111	
+C3383Bris	Pei-Han Ooi	20/03/1965	4153	
+C3384Bris	Yongchao Hemant	21/01/1986	4017	
+C3385Bris	Andrea Ismail	31/07/1954	4077	
+C3386Bris	Hooi-Ling Weng	17/11/1977	4039	
+C3388Bris	Xin Bryce	22/06/1952	4010	
+C3396Bris	Lillian Deng	26/03/1996	4080	
+C3400Bris	Yi Chin	30/08/1984	4069	
+C3403Bris	Tianyi Jasek	15/03/1975	4040	
+C3404Bris	Chin Chew	26/02/1963	4155	
+C3405Bris	Dang Keina	16/05/1986	4131	
+C3406Bris	Esther Alexander	7/02/1994	4079	
+C3407Bris	Kwong Luo	29/03/1999	4030	
+C3408Bris	Maryam Wong	15/08/1959	4113	
+C3409Bris	Meera Kumar	26/01/1967	4116	
+C3411Bris	Michael Alexander	19/07/1956	4041	
+C3412Bris	Michael Guangjin	29/10/1987	4158	
+C3413Bris	Hao Chen	11/03/1951	4087	
+C3416Bris	Chung Ang	7/10/1966	4021	
+C3419Bris	Chin Ratiner	4/08/1970	4101	
+C3423Bris	Mark Luu	11/09/1976	4008	
+C3424Bris	Graciela Ng	21/01/1953	4153	
+C3427Bris	Yanni Del	5/10/1997	4152	
+C3429Bris	Pee Shen-Han	27/08/1986	4128	
+C3430Bris	Shan Khanna	5/10/1991	4007	
+C3432Bris	Chung Leung	19/11/1959	4082	
+C3435Bris	Waleed Narang	27/05/1963	4150	
+C3436Bris	Anthony Subagio	8/12/1960	4080	
+C3437Bris	David Por	19/12/1973	4118	
+C3438Bris	Jeffrey Gelfand	22/01/1955	4138	
+C3439Bris	Benny Chen	8/12/1951	4120	
+C3441Bris	Matthew Ting	18/03/1990	4134	
+C3449Bris	John Wah	13/02/1999	4002	
+C3453Bris	Pik Cameron	16/05/1987	4129	
+C3456Bris	Julian Arjun	12/07/1986	4076	
+C3457Bris	King Malo	24/10/1961	4156	
+C3458Bris	Matthew Shi	20/06/1991	4086	
+C3459Bris	Pik Kang	4/02/1967	4152	
+C345Bris	Woo-Jung Kim Chhenh	22/09/1980	4071	
+C3460Bris	Carl Ji	14/03/1954	4026	
+C3461Bris	Duo Xu	23/02/1979	4113	
+C3462Bris	Emily Huang	29/03/1978	4108	
+C3464Bris	Julian Cheng	23/10/1997	4148	
+C3465Bris	Julian Green	6/06/1969	4120	
+C3466Bris	Kim Ng	27/09/1994	4033	
+C3469Bris	Stephen Yang	28/04/1968	4064	
+C3472Bris	David Isaac	31/10/1957	4054	
+C3476Bris	James Liao	3/12/1979	4004	
+C3477Bris	Matthew Nensi	13/05/1973	4037	
+C3480Bris	John Man-Wai	26/04/1949	4126	
+C3482Bris	Chao Bello	9/02/1970	4000	
+C3483Bris	Anne Chen	6/10/1954	4111	
+C3485Bris	Renji Xu	29/12/1992	4043	
+C3488Bris	Kian Holmes	21/05/1985	4087	
+C3489Bris	Chengyang Chong	5/08/1956	4040	
+C3490Bris	Nguyen Saha	27/10/1966	4053	
+C3491Bris	Wan Sarah	28/10/1960	4093	
+C3492Bris	Lia Tehan	3/01/1956	4112	
+C3494Bris	Shee Wayne	16/12/1957	4139	
+C349Bris	Jarrod Marie Chhenh	24/08/1992	4148	
+C3502Bris	Fiona Michael	14/08/1958	4155	
+C3506Bris	Pearl Colin	12/12/1953	4016	
+C3509Bris	Yossef Thornton	24/12/1952	4112	
+C3510Bris	Glen Law	19/12/1970	4120	
+C3511Bris	Arun de	5/09/1965	4135	
+C3512Bris	Li Tong	5/02/1999	4032	
+C3513Bris	Lily Li	25/08/1963	4147	
+C3514Bris	Vithusha Martinez	1/03/1951	4138	
+C3515Bris	Vivian Tsun-To	20/05/1995	4049	
+C3517Bris	Kwong Ting	14/06/1953	4152	
+C3518Bris	Mario Pui	16/10/1971	4054	
+C3519Bris	Ying Hong	17/03/1957	4007	
+C3522Bris	Xiaojia Chi-Nga	22/12/1972	4050	
+C3525Bris	Yue Ho	18/08/1959	4097	
+C3529Bris	Benjamin Fraser	20/05/1987	4018	
+C352Bris	Lewis Huu Cheung	1/04/1973	4121	
+C3530Bris	Oi Michaelidis	26/10/1978	4096	
+C3533Bris	Dewi Nath	18/11/1982	4055	
+C3535Bris	Debbie Fraser	10/05/1993	4131	
+C3536Bris	Henny Musa	11/09/1954	4029	
+C3538Bris	Catherine 	12/05/1984	4075	
+C353Bris	Warren Eduardo Chia	23/11/1963	4147	
+C3541Bris	Jenny Renato	20/11/1985	4057	
+C3542Bris	Wei Naseer	25/02/1991	4046	
+C3543Bris	Angela Pong	9/07/1973	4149	
+C3544Bris	Li Chi	16/04/1988	4055	
+C3545Bris	Paul Ochoa	20/04/1977	4044	
+C3547Bris	Elisa Wong	1/05/1962	4046	
+C354Bris	Wei Pilgrim Cheng	30/03/1970	4112	
+C3555Bris	Chang Toma	19/08/1982	4020	
+C3559Bris	Chia Sargent	16/09/1997	4054	
+C355Bris	Fizzah Cameron Chien	26/09/1954	4055	
+C3562Bris	Thao Mall	12/07/1999	4150	
+C3563Bris	Anthony Junior	13/03/1961	4094	
+C3564Bris	Fangren Xu	23/11/1950	4023	
+C3565Bris	Lu Beling	11/02/1994	4021	
+C3566Bris	Prasanna Lin	13/10/1998	4104	
+C3567Bris	Henry Zhang	2/06/1988	4089	
+C3568Bris	Man Chow	28/03/1995	4055	
+C356Bris	Natasha Price Cheng	10/02/1976	4080	
+C3570Bris	Tsu Chandra	5/12/1997	4138	
+C3571Bris	Anastasia Robindra	12/08/1971	4125	
+C3572Bris	Blake James	12/06/1954	4081	
+C3575Bris	Bo-Youn Kei	4/04/1982	4053	
+C3578Bris	Sonny Kin	19/09/1952	4000	
+C357Bris	Shirley Chi Cheung	7/10/1997	4042	
+C3582Bris	King Lee	1/08/1959	4009	
+C3583Bris	Meghan Jain	23/03/1994	4119	
+C3586Bris	Jordan Wing-Chi	8/06/1967	4050	
+C3588Bris	Jacqueline Patricia	24/12/1988	4046	
+C3589Bris	Kean Duy	29/07/1967	4062	
+C358Bris	Fang Wajsbrem Choi	24/08/1997	4039	
+C3591Bris	Xin Wing-See	7/09/1975	4060	
+C3594Bris	Ning Lee	30/10/1957	4100	
+C3595Bris	Qorib Wibowo	27/08/1968	4122	
+C3596Bris	Graciela Chan	16/08/1997	4004	
+C3597Bris	Julian Tan	14/05/1951	4003	
+C3598Bris	Shirley Bhandari	19/06/1982	4018	
+C3600Bris	Ee Stuart	12/06/1984	4080	
+C3608Bris	Eddie Colin	22/03/1979	4158	
+C360Bris	Marc Bryce Cheung	26/11/1978	4026	
+C3612Bris	Qi Halim	11/07/1965	4156	
+C3615Bris	Hok Lee	27/12/1979	4147	
+C3616Bris	Peter Helen	30/05/1974	4080	
+C3617Bris	Weng Del	15/05/1998	4081	
+C3618Bris	Daniel Chi	14/01/1991	4043	
+C3619Bris	Greg Chi	4/01/1984	4107	
+C361Bris	Qing Soneville Chien	13/06/1969	4034	
+C3620Bris	Nathalia Koch	8/12/1960	4023	
+C3621Bris	Tomohito Lee	25/08/1962	4139	
+C3623Bris	Lingjie Alnozha	2/01/1961	4116	
+C3624Bris	Muhammad Meng	30/11/1976	4041	
+C3625Bris	Regina Fai	12/02/1988	4125	
+C3628Bris	Liang Anthony	3/07/1999	4044	
+C362Bris	Kean Li Chien	20/02/1968	4049	
+C3631Bris	Fangning C	8/06/1984	4111	
+C3635Bris	Karen Yee	25/03/1998	4043	
+C3636Bris	Roselle James	3/08/1951	4049	
+C3639Bris	Perren Shin	30/07/1992	4031	
+C3641Bris	Ying Jorge	5/06/1983	4026	
+C3642Bris	Gangani Ng	22/08/1951	4057	
+C3644Bris	Paswindar Scott	16/10/1962	4047	
+C3647Bris	Ming Matthew	19/06/1951	4148	
+C3648Bris	Regina Almihaidi	4/12/1951	4102	
+C3649Bris	Craig Cheng	27/12/1962	4033	
+C3650Bris	Danni Sung-Chit	5/04/1988	4025	
+C3651Bris	Ka Clive	7/10/1965	4144	
+C3653Bris	Xianghong Katherine	8/08/1957	4149	
+C365Bris	Eugene Lee Cholewka	18/01/2000	4090	
+C3661Bris	Samant Lee	4/06/1960	4006	
+C3665Bris	Mei Hooi	13/08/1968	4154	
+C3668Bris	Chia Dale	13/12/1975	4080	
+C3669Bris	Denis de	30/09/1998	4072	
+C3670Bris	Pauline Thomas	27/09/1958	4093	
+C3671Bris	Sarah Bai	14/05/1973	4085	
+C3672Bris	Sok Jay	12/07/1952	4037	
+C3673Bris	Sampson Yan	19/03/1963	4084	
+C3674Bris	Benjamin Nor	23/05/1967	4048	
+C3676Bris	Louise Francis	3/03/1965	4080	
+C3677Bris	Wen Jia	21/10/1968	4129	
+C3678Bris	Dharmapoetra Li	8/06/1973	4109	
+C3681Bris	Luke Ying	6/06/1957	4124	
+C3684Bris	Daphne Alwuthaynani	9/06/1986	4070	
+C3688Bris	Deko Dean	11/10/1952	4067	
+C3689Bris	Liang Yan	12/12/1967	4019	
+C368Bris	Anjan Maree Chin	22/12/1978	4032	
+C3692Bris	Ching Wu	24/02/1952	4111	
+C3694Bris	Reshma Pui	19/12/1979	4118	
+C3695Bris	Chor Lun	1/01/1956	4103	
+C3697Bris	Stefanus Matthew	10/09/1969	4140	
+C36Bris	Kevin Andrew Andy	15/03/1985	4016	
+C3700Bris	Janet The	25/11/1988	4107	
+C3701Bris	Darina Siu	17/11/1979	4087	
+C3702Bris	Samant Sie	25/04/1960	4113	
+C3703Bris	Emmeline Sung-Chit	6/01/1972	4071	
+C3704Bris	Lincoln Ahmed	16/07/1952	4003	
+C3706Bris	Gaganjot Salim	17/04/1973	4046	
+C3714Bris	Cheryl Yuen	24/11/1963	4052	
+C3718Bris	Bryan On	27/12/1966	4005	
+C3721Bris	Nathalie Man-Wai	3/11/1957	4052	
+C3722Bris	Hao Lo	15/04/1960	4085	
+C3723Bris	Kai Victor	1/05/1953	4021	
+C3724Bris	Bahiyah Pacharakiraikul	10/08/1965	4134	
+C3725Bris	Vivek Anne	7/10/1979	4036	
+C3726Bris	Po George	9/12/1955	4092	
+C3727Bris	Brianna Chun	27/03/1966	4088	
+C3729Bris	Jaime Yan	10/12/1997	4040	
+C372Bris	Jiamin Yuen Chong	28/04/1995	4051	
+C3730Bris	Jingyi Ping	25/11/1993	4051	
+C3731Bris	Dong Tanujaya	16/10/1949	4057	
+C3734Bris	Herman Jen	9/10/1965	4057	
+C3737Bris	Fizzah Suliman	16/11/1983	4097	
+C373Bris	Ming Bryce Chew	10/02/1945	4126	
+C3741Bris	James Chai	4/12/1955	4023	
+C3742Bris	Wing Bernal	13/04/1960	4058	
+C3745Bris	Tatag Ruwin	26/10/1957	4104	
+C3747Bris	Vincent Xu	15/01/1952	4061	
+C3748Bris	Yongky Nhu	21/07/1951	4149	
+C3750Bris	Hani Ng	4/08/1963	4080	
+C3753Bris	Robert James	17/08/1983	4110	
+C3754Bris	Jack Harun	15/10/1953	4156	
+C3755Bris	Shell Yan	22/12/1969	4013	
+C3756Bris	Anastasios Thurecht	18/03/1971	4133	
+C3757Bris	Fangren Shen	16/12/1996	4106	
+C3759Bris	Kean Itthianuwat	28/10/1955	4115	
+C3767Bris	Amul Zeng	10/03/1986	4154	
+C376Bris	Michael Spanio Chong	14/03/1975	4039	
+C3771Bris	Elisa Suliman	21/12/1972	4088	
+C3774Bris	Varesh Lee	27/09/1985	4051	
+C3775Bris	Fengmin Sie	24/02/1973	4138	
+C3776Bris	Nathan San	13/04/1991	4089	
+C3777Bris	Julian Tandiono	20/01/1954	4076	
+C3778Bris	Marc Chan	10/02/1981	4067	
+C3779Bris	Shangzhen Kwok	15/03/2000	4035	
+C3780Bris	Shu-Ket Yin	16/06/1989	4142	
+C3782Bris	Shirlina Mekala	2/10/1986	4100	
+C3783Bris	Hui Tjio	15/03/1955	4081	
+C3784Bris	Ka Ching	17/12/1958	4021	
+C3787Bris	Ling Lim	17/05/1971	4017	
+C378Bris	Henry John Choi	4/11/1959	4152	
+C3790Bris	Robert Li	25/03/1971	4158	
+C3794Bris	Juan Chaudhary	14/02/1962	4075	
+C3795Bris	Mary Yuli	8/03/1998	4147	
+C3798Bris	Paswindar Hong	29/04/1968	4155	
+C379Bris	Sue Vass Chong	4/04/1976	4097	
+C3800Bris	Hari Lai	28/07/1960	4150	
+C3801Bris	Hengky Sehmbi	8/01/1984	4000	
+C3803Bris	Bahiyah Yang	4/09/2000	4096	
+C3806Bris	James Lok	23/12/1964	4008	
+C3807Bris	Henry Francis	23/10/1991	4118	
+C3808Bris	Nathan Anne	16/10/1995	4096	
+C3809Bris	Bing Wai	1/03/1953	4106	
+C3810Bris	Danni Wallace	2/02/1999	4056	
+C3812Bris	Lilly Bertram	29/11/1954	4107	
+C381Bris	Tianyi Heng Choi	6/05/1960	4063	
+C3820Bris	Atlarelang Kai	22/11/1972	4129	
+C3824Bris	Shu-Ket Esteban	5/12/1957	4147	
+C3827Bris	Mingyu Hung	20/03/1997	4126	
+C3828Bris	Fang Andres	10/10/1961	4149	
+C3829Bris	Steven Vass	1/03/1999	4145	
+C3830Bris	Jeremy La	27/06/1959	4005	
+C3831Bris	Yongchao Wah	6/05/1979	4023	
+C3832Bris	James Kearney	10/09/1997	4157	
+C3833Bris	Yu-Jen Tan	9/11/1999	4004	
+C3835Bris	Bryan Steven	29/12/1951	4071	
+C3836Bris	Mithila Shin	2/05/1973	4036	
+C3837Bris	Shaun Ong	29/03/1953	4006	
+C3840Bris	Wing John	13/02/1958	4047	
+C3843Bris	Chia Almihaidi	26/01/1983	4042	
+C3847Bris	Fiona Tsun	17/06/1997	4031	
+C3848Bris	Robert Marieta	18/02/1999	4014	
+C384Bris	Bernadette Toh Chong	30/09/1958	4132	
+C3851Bris	Hani John	12/08/1998	4135	
+C3853Bris	Jiacheng Dobson	26/01/1981	4020	
+C3854Bris	Patrick Chia	22/05/1959	4151	
+C3856Bris	Tengteng Lian	22/04/1979	4142	
+C3859Bris	Qorib Huu	5/02/1999	4154	
+C385Bris	Po Kozhirbayev Chong	9/01/2000	4128	
+C3860Bris	Justin Anne	24/08/1952	4114	
+C3861Bris	Arnab Yewchenk	19/03/1967	4038	
+C3862Bris	James Yeen	21/01/1955	4114	
+C3863Bris	Paswindar Tapia	1/08/1999	4040	
+C3865Bris	Anthony Ming	21/12/1953	4153	
+C386Bris	Dong Cheong Chong	27/11/1973	4140	
+C3873Bris	Wee Lyn	4/05/1970	4136	
+C3877Bris	Nguyen Yin	19/11/1994	4090	
+C387Bris	Jamie Shea Chong	25/09/1967	4016	
+C3880Bris	Chon Clive	16/09/1990	4047	
+C3881Bris	Penelope Li	8/06/1949	4008	
+C3882Bris	Hani Martin	14/06/1987	4059	
+C3883Bris	Pee Michael	21/11/1989	4058	
+C3884Bris	Hans Chuang	14/11/1985	4070	
+C3885Bris	Pearl Johnston	24/02/1953	4107	
+C3886Bris	Chhayraksmey Kooy	4/01/1973	4108	
+C3888Bris	Anna Leung	29/11/1955	4082	
+C3889Bris	Mei Sun	30/03/1954	4070	
+C388Bris	Hans Lin Chooi	31/01/1977	4036	
+C3890Bris	Jason Sadarangani	6/01/1965	4007	
+C3893Bris	Daniel William	11/04/1973	4149	
+C3896Bris	Leo Sibbing	13/10/1958	4079	
+C3900Bris	Yin Jorge	8/12/1998	4093	
+C3901Bris	Chia Ahn	17/03/1963	4122	
+C3904Bris	Jaratpon Dewi	12/10/1970	4129	
+C3906Bris	Victoria Le	14/07/1959	4002	
+C3907Bris	Nishant Mary	9/07/1985	4065	
+C3909Bris	Hendry Peacock	18/10/1953	4040	
+C390Bris	Ka-Lam Sheng-Chih Chong	4/07/1978	4037	
+C3912Bris	Anastasios Lee	14/11/1951	4129	
+C3913Bris	Suong Wijaya	12/02/1956	4032	
+C3914Bris	Wai Clare	7/02/1970	4023	
+C3915Bris	Anita Russell	11/03/1980	4061	
+C3916Bris	Jiale Cameron	25/01/1957	4022	
+C3918Bris	I-Jane John	9/10/2000	4133	
+C3926Bris	Wing Rong	20/07/1989	4029	
+C3930Bris	Arun Leong	25/09/1995	4141	
+C3933Bris	Arun Li	10/10/1972	4122	
+C3934Bris	Enamul Lee	29/03/1961	4135	
+C3935Bris	Henrique Leung	31/03/1976	4094	
+C3936Bris	Ashima Sophia	6/08/1998	4131	
+C3937Bris	Tou W	2/09/1955	4149	
+C3938Bris	Tony Kin	3/06/1959	4015	
+C3939Bris	John Kuang-Fu	9/03/1968	4036	
+C3941Bris	Joshua Gibson	2/06/1988	4089	
+C3942Bris	Russell Francisco	18/12/1952	4070	
+C3943Bris	Penelope Bromhead	19/08/1968	4037	
+C3946Bris	Yin Cheah	14/06/1971	4073	
+C3949Bris	Alvin Chintan	11/01/1951	4005	
+C3953Bris	Karen Phaik	1/08/1998	4149	
+C3954Bris	Stephanie Gordon	16/05/1955	4118	
+C3957Bris	Liang Riadh	21/08/1992	4002	
+C3959Bris	Penelope Chiu	13/11/1970	4108	
+C3960Bris	Hannah Kumar	3/01/1969	4059	
+C3962Bris	Meng Pui	24/04/1990	4143	
+C3965Bris	Chuyang Zhou	20/03/1987	4107	
+C3966Bris	Alex Ren	22/05/1990	4150	
+C3967Bris	Ann Christopher	10/08/1953	4067	
+C3968Bris	Anita Halim	24/03/1965	4129	
+C3969Bris	Ashima Wilfrid	3/12/1989	4072	
+C3971Bris	Tony Gabriel	3/05/1954	4025	
+C3979Bris	Zeyu Xue	13/08/1976	4146	
+C3983Bris	Jie Dean	2/09/1975	4038	
+C3986Bris	Chong Toeng	13/05/1979	4051	
+C3987Bris	Stefanus Yeh	13/12/1970	4139	
+C3988Bris	Tony Tay	29/06/1997	4104	
+C3989Bris	Cary Musa	6/04/1974	4050	
+C398Bris	Chon Patricia Choong	27/10/1971	4026	
+C3990Bris	Tseu Spiteri-Staines	1/12/1996	4047	
+C3991Bris	Weijia Overell	2/06/1949	4008	
+C3992Bris	Yuan Christopher	16/07/1978	4143	
+C3994Bris	Fizzah Helen	7/11/1972	4113	
+C3995Bris	Bei Alexander	5/11/1976	4102	
+C3996Bris	David Lim	12/03/1997	4019	
+C3999Bris	Ashley Chow	29/04/1978	4036	
+C39Bris	Bei Chi Ang	6/12/1957	4008	
+C3Bris	Muhamad Law Aggarwal	4/02/1955	4024	
+C4002Bris	Yu Fernanda	20/02/1950	4124	
+C4006Bris	Jaime Hei	7/08/1997	4097	
+C4007Bris	Gabriela Gabriel	3/08/1963	4000	
+C4010Bris	Anne Yoong	29/09/1992	4062	
+C4012Bris	Stephen Phoa	26/11/1961	4090	
+C4013Bris	Ross Maree	19/03/1981	4147	
+C4015Bris	Daniel Suliman	7/04/1997	4049	
+C4018Bris	Yicun Mohd	24/08/1983	4010	
+C4019Bris	Julia Yin	20/12/1978	4045	
+C4020Bris	Wang Fu	3/02/1953	4019	
+C4021Bris	Haliyusswanee Shah	10/12/1952	4036	
+C4022Bris	Vithusha Wong	24/01/1985	4058	
+C4024Bris	Benny Yew	16/07/1964	4123	
+C402Bris	Siobhan Lo Chris	25/12/1961	4122	
+C4032Bris	Wing Louise	10/02/1979	4103	
+C4036Bris	Matthew Leong	12/10/1998	4156	
+C4039Bris	Lincoln Lyn	29/07/1957	4089	
+C4040Bris	Christine Tse	3/08/1997	4047	
+C4041Bris	Qi Jay	1/12/1952	4053	
+C4042Bris	Stanley Dishantha	6/11/1966	4108	
+C4043Bris	John Jay	21/12/1960	4036	
+C4044Bris	Yuanxi Kartika	8/07/1951	4086	
+C4045Bris	Julia Chan	29/06/1981	4144	
+C408Bris	Ping Vipinchandra Chu	13/08/1956	4073	
+C4092Bris	Nathalia Yang	26/06/1954	4065	
+C4093Bris	Fang Liu	26/06/1991	4061	
+C4094Bris	Justin Cheah	27/08/1996	4040	
+C4095Bris	Ning Wah	6/03/1990	4144	
+C4096Bris	Stanley Fraser	8/01/1953	4077	
+C4097Bris	Deon Chin	14/08/1961	4108	
+C4098Bris	Ying Ing	26/06/1969	4116	
+C409Bris	Ta Ren Chu	15/04/1973	4134	
+C40Bris	Samant Yin Ang	5/02/1992	4049	
+C4100Bris	Tengteng Wei-En	2/07/1991	4034	
+C4101Bris	Ryan Lyn	9/01/1991	4156	
+C4102Bris	Sujono Keong	12/03/1964	4133	
+C4105Bris	Irena Leong	25/11/1968	4098	
+C4108Bris	Wenyue Ting	20/05/1987	4069	
+C410Bris	Rui David Chu	4/11/1995	4062	
+C4112Bris	Milisha Yang	27/08/1951	4074	
+C4113Bris	Charles Wang	21/06/1969	4025	
+C4116Bris	Andrew Koch	13/03/1957	4128	
+C4118Bris	Armando William	29/05/1953	4035	
+C4119Bris	Muhamad W	17/11/1961	4156	
+C411Bris	Brianna Xue Chu	30/12/1999	4155	
+C4121Bris	Angela Lee	18/06/1981	4153	
+C4124Bris	Catherine Tze	10/05/1995	4043	
+C4125Bris	Mark Nowhere	22/07/1961	4070	
+C4126Bris	Bin Diep	29/06/1965	4049	
+C4127Bris	Daniel Mukerjee	13/11/1951	4041	
+C4128Bris	Yu-Hsiu Ho	16/12/1997	4142	
+C4130Bris	Louis Charles	5/06/1954	4020	
+C4138Bris	Yuxuan Fitradi	18/05/1966	4129	
+C413Bris	James Guy Chua	5/10/1980	4152	
+C4142Bris	Nguyen Zhu	26/03/1955	4069	
+C4145Bris	Tsz Mohd	21/05/1992	4037	
+C4146Bris	Phew George	1/06/1997	4046	
+C4147Bris	Yeuksze Yi	27/05/1997	4026	
+C4148Bris	Huan Fong	15/01/1988	4103	
+C4149Bris	Marc Shi	11/01/1955	4059	
+C414Bris	Anish Liu Chua	13/01/1971	4148	
+C4150Bris	Barry Carrera	10/01/1955	4029	
+C4151Bris	David Kit	29/07/1957	4012	
+C4153Bris	Yossef Jose	21/10/1962	4026	
+C4154Bris	Aurelio Yau	20/01/1988	4129	
+C4155Bris	Sonny Zhao	29/05/1951	4100	
+C4158Bris	Ann Ooi	2/05/1985	4010	
+C415Bris	Jye Anthony Chua	23/04/1985	4083	
+C4161Bris	Steven Vainshtein	9/07/1974	4095	
+C4165Bris	Jennifer Christian	24/10/1959	4044	
+C4166Bris	Privantha Michael	27/05/1987	4087	
+C4169Bris	Jaime Jun	22/03/1970	4115	
+C4171Bris	David Chui-Mei	7/08/1955	4120	
+C4172Bris	Yeong James	27/10/1951	4078	
+C4174Bris	Bo-Youn Chye-Hwa	28/01/1991	4006	
+C4177Bris	Yen Chan	25/04/1980	4091	
+C4178Bris	Richard Elizabeth	22/04/1966	4117	
+C4179Bris	Wing Goh	8/11/1988	4153	
+C4180Bris	Amalie Riddle	19/10/1976	4144	
+C4181Bris	Matthew Nicholas	20/06/1951	4115	
+C4183Bris	Teng Hemant	8/04/1959	4000	
+C418Bris	Jennifer May Chuan	23/06/1995	4102	
+C4191Bris	James Zhang	2/04/1964	4012	
+C4195Bris	Patrick Collin	21/08/1980	4057	
+C4198Bris	Leon Randall	4/12/1960	4135	
+C4199Bris	Christina John	9/12/1959	4068	
+C41Bris	Teng Andrew Ang	25/09/1981	4093	
+C4200Bris	Siu Damelio	8/02/1960	4003	
+C4201Bris	Chon Fabricio	4/05/1955	4050	
+C4202Bris	Dong Kathiresan	19/06/1988	4019	
+C4203Bris	Chih-Hsiung Wah	4/12/1952	4075	
+C4204Bris	Thomas Liu	15/03/1966	4136	
+C4206Bris	Pushan Hassan	9/03/1966	4040	
+C4207Bris	Bahiyah Stuart	13/08/1999	4147	
+C4208Bris	Caroline Garg	10/09/1971	4158	
+C4211Bris	Hooi-Ling William	21/02/1983	4030	
+C4214Bris	Theresa Sun	17/05/1996	4120	
+C4218Bris	Privantha Dishantha	5/09/1988	4016	
+C4219Bris	Jeremy Suresh	13/09/1997	4136	
+C421Bris	Deepam Andrew Chuan	1/10/1955	4129	
+C4222Bris	Mark Herszfeld	9/05/1988	4114	
+C4224Bris	Urmila Anthony	30/11/1977	4133	
+C4225Bris	Bill Wing	3/08/1973	4055	
+C4227Bris	Jim Mordoukhaev	19/10/1989	4068	
+C4230Bris	Paul Herszfeld	30/07/1960	4044	
+C4231Bris	Chek Wah	28/02/1960	4016	
+C4232Bris	Mohit Nguyen	27/10/1955	4095	
+C4233Bris	Lily Iyer	7/02/1961	4080	
+C4234Bris	Mansoor Martin	6/05/1951	4148	
+C4236Bris	Wanyu Robertson	28/07/1974	4107	
+C4244Bris	Jason Kesari	6/07/1977	4100	
+C4248Bris	Lewis Russell	25/04/1974	4088	
+C4251Bris	Vitavas Yu	26/05/1984	4118	
+C4252Bris	Alex Kesari	14/11/1957	4117	
+C4253Bris	Elisa Paul	29/09/1997	4103	
+C4254Bris	Anisha Kai	11/12/1977	4071	
+C4255Bris	Teng Anuraag	25/05/1994	4097	
+C4256Bris	Anastasios Chow	28/05/1956	4100	
+C4257Bris	Anastasios Yein	9/05/1978	4069	
+C4259Bris	Felix Tong	7/07/1948	4115	
+C425Bris	Catherine Mckenna Chuang	6/04/1954	4102	
+C4260Bris	Alex Mak	22/12/1951	4156	
+C4261Bris	Wen Marieta	23/02/1953	4094	
+C4264Bris	Xin Ing	20/10/1958	4105	
+C4267Bris	Zheng Thomas	12/01/1962	4135	
+C426Bris	Louisa San Chun	1/11/1979	4153	
+C4271Bris	Tural Jamil	28/10/1999	4071	
+C4272Bris	Joann Kaur	16/06/1999	4026	
+C4275Bris	Mark Wan	3/08/1960	4093	
+C4277Bris	Yili Ng	24/04/1958	4033	
+C4278Bris	Evan Lu	4/03/1951	4087	
+C4280Bris	David Richard	21/12/1989	4101	
+C4283Bris	Yeong Scott	30/10/1970	4018	
+C4284Bris	Wai Setiawati	9/12/1970	4060	
+C4285Bris	Alice Vitti	9/12/1955	4087	
+C4286Bris	Amelia Kesari	11/01/1952	4115	
+C4287Bris	Claudia Scott	29/08/1955	4033	
+C4289Bris	Ann John	17/04/1962	4147	
+C4297Bris	Jorge Gayler	30/07/1969	4155	
+C429Bris	Ross Yi Chun	27/02/1960	4128	
+C42Bris	Hong-Lim Michaelidis Ang	5/10/1956	4035	
+C4301Bris	Shu-Ket Leung	14/02/1984	4042	
+C4304Bris	Gaurav Aggarwal	18/07/1954	4087	
+C4305Bris	Limelda Yein	18/01/1953	4076	
+C4306Bris	Sriram Shen	27/11/1951	4006	
+C4307Bris	Daniel Keina	7/10/1980	4132	
+C4308Bris	Tim Punnoose	22/07/1987	4045	
+C4309Bris	Daphne Fei	13/12/1998	4061	
+C4310Bris	Yongchao Haq	27/03/1998	4142	
+C4312Bris	Jamie Yin	23/11/1973	4099	
+C4313Bris	Vitavas Tankulrat	10/04/1985	4019	
+C4314Bris	Gaurav Ang	8/10/1961	4122	
+C4317Bris	Brendan Rahim	9/09/1988	4126	
+C431Bris	Ghislaine Yoong Chung	27/05/1984	4081	
+C4320Bris	Debbie Singh	8/04/1954	4109	
+C4324Bris	Ganglei Tsomaropoulos	10/07/1959	4119	
+C4325Bris	Prakash Martin	15/06/1977	4064	
+C4328Bris	Elizabeth Sehmbi	30/07/1985	4138	
+C432Bris	Chin Wang Chung	9/02/1952	4092	
+C4330Bris	Johanna John	13/03/1967	4120	
+C4331Bris	Nathan Leik	18/03/1959	4121	
+C4333Bris	Lachlan Wen	22/05/1972	4041	
+C4336Bris	Yunfei James	1/05/1996	4156	
+C4337Bris	Brett Elizabeth	26/06/1990	4015	
+C4338Bris	Eli William	5/01/1988	4101	
+C4339Bris	Tony Ruwin	13/08/1971	4032	
+C4340Bris	Sherly Zhang	3/10/1960	4058	
+C4342Bris	Benjamin Yan	4/04/1992	4066	
+C434Bris	Scott Adam Chung	2/07/1953	4091	
+C4350Bris	Choon Tassi	10/05/1952	4095	
+C4354Bris	Alicia Beng	17/02/1953	4063	
+C4357Bris	David Vun	9/04/1956	4138	
+C4358Bris	Kenneth Keina	4/04/1953	4098	
+C4359Bris	Winarto Kartika	6/09/2000	4000	
+C4360Bris	Anhua Jennie	26/10/1970	4031	
+C4361Bris	Joshua Moon	8/05/1992	4131	
+C4362Bris	Brett Li	5/09/1962	4158	
+C4363Bris	Zhanibek Ong	27/02/1999	4043	
+C4365Bris	Wei Anthony	5/02/1994	4122	
+C4366Bris	Dewi Standfield	19/04/1952	4065	
+C4367Bris	Kerry Wong	10/02/1972	4005	
+C4370Bris	Hong Chye-Hwa	19/07/1985	4092	
+C4373Bris	Jefferson Ho	16/05/1975	4113	
+C4377Bris	Vincent Kenny	4/09/1979	4082	
+C4378Bris	Xavier Man	13/01/1990	4058	
+C437Bris	Cassio Clive Chung	15/06/1976	4139	
+C4381Bris	Sam Lim	7/07/1984	4080	
+C4383Bris	Anita Wan	16/03/1964	4064	
+C4384Bris	Farah Menting	28/03/1987	4022	
+C4386Bris	Wenhua Sun	28/02/2000	4125	
+C4389Bris	Hanson Pan	20/12/1956	4026	
+C438Bris	David Ting Clouvas	15/05/1957	4139	
+C4390Bris	Bryan Wei-En	20/02/1975	4056	
+C4391Bris	Tou Sangsurane	28/04/1986	4114	
+C4392Bris	Catherine Ming	25/11/1974	4090	
+C4393Bris	Mashnul Shyen	15/02/1953	4027	
+C4395Bris	Donny Thornton	15/01/1956	4068	
+C439Bris	Yusuf Jain Clouvas	21/04/1989	4024	
+C43Bris	Daniel Andrew Ang	9/07/1953	4076	
+C4403Bris	Waleed John	30/06/1951	4123	
+C4407Bris	Phillip Sie	20/08/1996	4146	
+C440Bris	Muhammad Macdonald Cook	24/11/1951	4029	
+C4410Bris	Megan Ching	11/07/2000	4123	
+C4411Bris	Thanh Steven	25/11/1958	4049	
+C4412Bris	Danni Pagatpatan	26/03/1982	4080	
+C4413Bris	Thomas Hwei	6/10/1951	4001	
+C4414Bris	Ankur Gong	30/08/1968	4008	
+C4415Bris	Ta Alexander	7/03/1954	4093	
+C4416Bris	Yunlong Dianne	24/01/1957	4059	
+C4418Bris	Peter Wong	15/06/1988	4130	
+C4419Bris	Wael Sydney	5/04/1962	4025	
+C441Bris	Arun Yewchenk Costa	9/11/1949	4050	
+C4420Bris	Steven Halim	3/07/1963	4144	
+C4423Bris	Cho Robindra	4/11/1966	4019	
+C4426Bris	Sandy Qu	1/03/1998	4054	
+C4430Bris	Shuangchao Ang	17/07/1952	4013	
+C4431Bris	Marlene Xu	15/09/1973	4142	
+C4434Bris	Vitavas Nensi	25/08/1989	4141	
+C4436Bris	Teng Cheng	20/10/1951	4070	
+C4437Bris	Gangani Kian	16/12/1956	4041	
+C4439Bris	Jackie Sanjaya	20/12/1983	4008	
+C443Bris	Yuxuan Matthew Costa	19/02/1992	4108	
+C4442Bris	Victoria Chia	12/01/1963	4129	
+C4443Bris	Stefanus Wilfrid	10/03/1986	4019	
+C4444Bris	Su-Yi Guy	2/01/1953	4034	
+C4445Bris	Mun C	2/05/1952	4085	
+C4446Bris	Patrick Chi	18/11/1994	4009	
+C4448Bris	Shenn Jennie	12/02/2000	4134	
+C4456Bris	Michael Nguyen	19/08/1982	4056	
+C4460Bris	Anela Fernanda	6/03/1981	4147	
+C4463Bris	Sandy John	19/05/1985	4010	
+C4464Bris	Ka James	4/04/1983	4049	
+C4465Bris	Kennis Xiaohui	8/04/1996	4080	
+C4466Bris	Kam DAmbrosio	13/10/1956	4111	
+C4467Bris	Matthew Holmes	16/12/1959	4012	
+C4468Bris	Chung Chiu	25/05/1993	4007	
+C4469Bris	Craig Zhang	19/09/1952	4038	
+C4471Bris	David Anggoro	7/05/1987	4011	
+C4472Bris	Milisha J	19/02/1958	4119	
+C4473Bris	Sherly Hong	12/05/1998	4141	
+C4476Bris	Yifei Lam	25/11/1998	4066	
+C4479Bris	Salman Yin	21/02/1974	4050	
+C4483Bris	Boon Zeng	9/10/1995	4147	
+C4484Bris	James Kwok	19/04/1957	4095	
+C4487Bris	Meghan Zhang	24/04/1950	4109	
+C4489Bris	Ming Robindra	29/01/1961	4075	
+C4490Bris	Soo Bandi	10/12/1973	4036	
+C4492Bris	Anthony Ho	9/03/1980	4010	
+C4495Bris	Jye Qu	9/01/1959	4013	
+C4496Bris	Zheo James	7/02/1997	4101	
+C4497Bris	Christina Gong	23/10/1999	4104	
+C4498Bris	Hanny Thomas	30/05/1961	4034	
+C4499Bris	Tong Ali	4/10/1951	4096	
+C44Bris	Hock Lee Anggoro	12/02/1952	4122	
+C4501Bris	Li Jane	3/03/2000	4103	
+C4509Bris	Pongphat Chauhan	27/10/1970	4102	
+C4513Bris	Nathan A	8/06/1959	4107	
+C4516Bris	Sim Khan	23/05/1973	4070	
+C4517Bris	Thomas Ngeow	11/10/1975	4118	
+C4518Bris	Dean Saa	29/05/1973	4043	
+C4519Bris	Kalyan Barnes	13/04/1992	4063	
+C451Bris	Jinming Kian Crosling	18/10/1957	4145	
+C4520Bris	Thai Katherine	20/06/1968	4025	
+C4521Bris	Yun Mark	25/02/1957	4033	
+C4522Bris	Michael Geoffrey	4/02/1968	4044	
+C4524Bris	Sam Phaik	26/07/1997	4114	
+C4525Bris	Kap Cheong	4/07/1999	4090	
+C4526Bris	Man Chung	13/03/1984	4009	
+C4529Bris	Tianqi Marie	10/06/1958	4158	
+C4532Bris	Hock Wong	14/01/1973	4053	
+C4536Bris	Binh John	30/12/1955	4144	
+C4537Bris	Ruichen Salinas	18/09/1972	4034	
+C4540Bris	Mei Wilmot	18/10/1953	4085	
+C4542Bris	Rusol Wong	23/05/1956	4030	
+C4543Bris	Wing Sankranti	5/10/1965	4019	
+C4545Bris	Robert Septina	7/05/1975	4104	
+C4548Bris	Ching Lim	4/10/1996	4005	
+C4549Bris	Zeyu Wai	27/12/1953	4012	
+C4550Bris	Gunawan Teik	12/11/1951	4062	
+C4551Bris	Nga Koh	17/12/1992	4020	
+C4552Bris	Yue Li	5/04/1953	4030	
+C4554Bris	James Moor	23/12/1954	4135	
+C455Bris	Audie Standfield Da	31/05/1958	4151	
+C4562Bris	Jeremy Luke	29/09/1994	4076	
+C4566Bris	Jennifer Shyen	9/04/1994	4117	
+C4569Bris	Vyshakh Hoon	20/10/1959	4085	
+C4570Bris	Wei Shen-Han	3/04/1953	4069	
+C4571Bris	Julian Paul	8/08/1952	4132	
+C4572Bris	Pou Chi-Nga	3/03/1999	4139	
+C4573Bris	Jaime Hollingworth	25/03/1955	4017	
+C4574Bris	Yin Jin	4/05/1998	4031	
+C4575Bris	Shu-Ket Danbo	15/06/1995	4059	
+C4577Bris	Suhrid John	22/12/1948	4140	
+C4578Bris	Alvin Leo	22/10/1958	4029	
+C4579Bris	Aravind Ren	23/06/1970	4094	
+C4582Bris	Hock Sehmbi	5/05/1993	4083	
+C4585Bris	Stefanus Triswardono	27/03/1966	4076	
+C4589Bris	Yu Tse	21/04/1979	4126	
+C458Bris	Wanyu Ng Dalton	17/10/1984	4095	
+C4590Bris	Aurelio Boon	26/08/1975	4131	
+C4593Bris	Perren Robert	17/09/1964	4153	
+C4595Bris	Jono Kooy	27/02/1958	4127	
+C4596Bris	Audie Andrew	18/08/1988	4068	
+C4598Bris	Matthew Wai	10/11/1984	4101	
+C459Bris	Hani Shea Dalton	29/06/1998	4064	
+C45Bris	Shaun Raimi Anggoro	13/01/1957	4069	
+C4601Bris	Su-Yee Heng	12/02/1996	4015	
+C4602Bris	Alvina Hsia	24/11/1987	4016	
+C4603Bris	Christopher Loh	18/03/1955	4069	
+C4604Bris	Arnab Tong	10/06/1995	4104	
+C4605Bris	Pou Siok	22/02/2000	4081	
+C4607Bris	Audrey Vainshtein	24/01/1984	4037	
+C460Bris	Su-Yi Carrion Daniel	4/01/1988	4122	
+C4615Bris	Senjie Charles	22/08/1984	4120	
+C4619Bris	John Suresh	21/01/1999	4065	
+C461Bris	Hwa Dianne Daniel	8/11/1967	4075	
+C4622Bris	Trong Gelfand	26/11/1984	4058	
+C4623Bris	Aurelio Devidas	24/01/1997	4036	
+C4624Bris	Jason Widjaja	24/03/1997	4023	
+C4625Bris	Meera Danbo	26/08/1959	4049	
+C4626Bris	Neha Kei	26/11/1953	4135	
+C4627Bris	Jay Lok	22/10/1967	4059	
+C4628Bris	Oliver Wang	29/11/1995	4045	
+C462Bris	Sze Thao Daniel	10/09/1949	4144	
+C4630Bris	Rusol Kumala	30/03/1956	4020	
+C4631Bris	Fiona Shin	18/08/1957	4029	
+C4632Bris	Shan Yeung	11/01/1956	4081	
+C4635Bris	Hani Hoon	15/12/1962	4028	
+C4638Bris	Serey Macdonald	15/02/1964	4087	
+C463Bris	Amran Chek Daniel	15/04/1967	4143	
+C4642Bris	Kennis Vun	13/01/1971	4070	
+C4643Bris	Mark Kloves	29/07/1955	4045	
+C4646Bris	Hendry James	26/12/1996	4029	
+C4648Bris	Sok Jin	26/02/1995	4117	
+C4649Bris	Chi Yu	1/11/1982	4089	
+C464Bris	Dinni Cheng Daniel	20/10/1989	4151	
+C4651Bris	Senjie Sorrell	28/03/1998	4131	
+C4654Bris	Emine Mann	12/07/1960	4028	
+C4655Bris	Rui Martinez	16/03/1952	4029	
+C4656Bris	Eugene Spence-Pearse	4/11/1987	4026	
+C4657Bris	Nathan Brown	2/01/1953	4028	
+C4658Bris	Sreenath Carrion	5/11/1954	4141	
+C4660Bris	Prakash Malo	12/07/1969	4097	
+C4668Bris	Sumeet Overell	23/07/1975	4150	
+C466Bris	Pee Vainshtein Daniel	24/12/1970	4075	
+C4672Bris	Anthony Albina	22/05/1964	4033	
+C4675Bris	Tou Zhao	15/09/1987	4084	
+C4676Bris	Lily Sydney	6/07/1991	4035	
+C4677Bris	Samant Jimenez	2/05/1961	4134	
+C4678Bris	Sriram John	9/03/1951	4096	
+C4679Bris	Hok Lam	17/11/1983	4085	
+C467Bris	Mansoor Andrew Daniel	5/11/2000	4141	
+C4680Bris	Keat Zhou	5/01/1953	4136	
+C4681Bris	Ying Cameron	13/06/1966	4139	
+C4683Bris	John Law	17/03/1981	4136	
+C4684Bris	Leo Chow	28/09/1964	4037	
+C4685Bris	Cheok Chung	11/04/1975	4059	
+C4688Bris	Irma Yarwood	29/08/1975	4110	
+C468Bris	Ryan Collin Daniel	2/09/1984	4085	
+C4691Bris	Vanessa-Cam Tang	21/06/1988	4037	
+C4695Bris	Maha Mukerjee	26/05/1949	4081	
+C4696Bris	Andrea William	28/03/1996	4066	
+C4699Bris	Sarah Ho	2/05/1982	4115	
+C4701Bris	Pushan Chuang	16/03/1954	4002	
+C4702Bris	Andrea Xuan	21/05/1953	4090	
+C4704Bris	Darina Macdonald	5/11/1958	4109	
+C4707Bris	Yue Phong	17/11/1988	4098	
+C4708Bris	Heen Mehl	9/12/1953	4024	
+C4709Bris	Jack John	2/07/1955	4121	
+C4710Bris	Jikang Joanne	13/10/2000	4141	
+C4711Bris	Timothy Ruwin	11/12/1985	4057	
+C4713Bris	Bree Paul	10/11/1984	4107	
+C471Bris	Kap Mccleary Daniel	4/04/1992	4034	
+C4721Bris	Brett Wei	26/04/1959	4004	
+C4725Bris	Bernadette Mary	28/12/1996	4003	
+C4728Bris	Lewis Rusli	14/10/1976	4020	
+C4729Bris	Jason Anthony	5/12/1976	4153	
+C4730Bris	Chee Chieh	21/11/1961	4051	
+C4731Bris	Bahiyah Raso	15/05/1956	4097	
+C4732Bris	Chieh Hun	10/07/1976	4056	
+C4733Bris	Nigel Brian	29/09/1973	4005	
+C4734Bris	Tony Liu	28/07/1971	4046	
+C4736Bris	Nathan Fook	22/06/1963	4097	
+C4737Bris	Irena Kong	9/07/2000	4109	
+C4738Bris	Santiago Chui-Mei	21/06/1961	4109	
+C4741Bris	Lu Anthony	29/04/1972	4077	
+C4744Bris	Rogine Nensi	25/11/1979	4057	
+C4748Bris	Manuja Moon	12/01/1955	4004	
+C4749Bris	Vitavas Kuong	20/06/1957	4027	
+C474Bris	Anish Lorenzo Daniel	8/07/1980	4139	
+C4752Bris	Lily Hoo	8/02/1951	4070	
+C4754Bris	Sijing Anggoro	2/08/1969	4002	
+C4755Bris	Weijia Lam	27/08/1960	4098	
+C4757Bris	Mayumi Chye-Hwa	12/04/1954	4047	
+C4760Bris	Jennifer Tang	14/08/1955	4079	
+C4761Bris	Andrea Payne	21/04/1959	4075	
+C4762Bris	Emanuela Crosling	5/06/1999	4134	
+C4763Bris	Md Keung	10/08/1999	4049	
+C4764Bris	Thai William	1/10/1983	4053	
+C4766Bris	Clarence Radcliffe	9/05/1965	4088	
+C4774Bris	Sarah Ann-Lin	3/11/1955	4153	
+C4778Bris	Hwa Syah	16/02/1953	4083	
+C4781Bris	Vyshakh Geoffrey	14/10/1997	4009	
+C4782Bris	Scott Pongpaitoon	2/01/1958	4135	
+C4783Bris	Leo Jimenez	4/12/1966	4115	
+C4784Bris	Enamul Stewart	14/11/1994	4131	
+C4785Bris	Karen Michaelidis	18/06/1977	4080	
+C4786Bris	Fei Bandi	27/08/1971	4062	
+C4787Bris	Ting Ruan	24/03/1993	4034	
+C4789Bris	Graciela Shoun	26/06/1954	4074	
+C478Bris	Hengky Ng Daniel	17/07/1961	4038	
+C4790Bris	Hanny Andrew	2/02/1998	4071	
+C4791Bris	Elizabeth Kalyanaraman	10/08/1976	4157	
+C4794Bris	Hani Mulki	31/10/1967	4099	
+C4797Bris	Clarence On	14/07/1998	4054	
+C479Bris	Shreyak Gray Daniel	14/09/2000	4079	
+C47Bris	Fei Kumar Anhal	29/04/1964	4156	
+C4801Bris	Hendry Toeng	12/12/1978	4012	
+C4802Bris	Shell Adam	10/08/1953	4058	
+C4805Bris	Kenneth King	6/04/1989	4150	
+C4807Bris	Eng Cesar	4/04/1999	4152	
+C4808Bris	Anna Li	25/12/1963	4064	
+C4810Bris	Chi Huat	8/06/1977	4142	
+C4813Bris	Deko Fang	4/04/1978	4073	
+C4814Bris	Alexis Yau	12/10/1956	4129	
+C4815Bris	Marie Thurecht	25/01/1995	4155	
+C4816Bris	Kanok Louis	19/03/1956	4142	
+C4817Bris	Henry Ruth	28/02/2000	4131	
+C4819Bris	Wen Elizabeth	31/08/1966	4121	
+C4827Bris	Ganglei Jun	8/03/1984	4000	
+C482Bris	Daniel Renato Darren	14/01/1995	4009	
+C4831Bris	Sang Huu	30/08/1977	4159	
+C4834Bris	Sirui Sun	17/06/1993	4019	
+C4835Bris	Nathan Ting	3/07/2000	4053	
+C4836Bris	Timothy Pou	25/06/1959	4008	
+C4837Bris	Alvin Quang	15/08/1998	4099	
+C4838Bris	Matthew Kanjanabutr	8/10/1984	4044	
+C4839Bris	Qi Kang	7/03/1982	4154	
+C4840Bris	Michael Loong	20/02/1953	4132	
+C4842Bris	Tsz Tan	17/09/1993	4154	
+C4843Bris	Ying Chia	3/10/1983	4158	
+C4844Bris	Alboni Shaker	1/04/1963	4032	
+C4847Bris	Yue Sophia	11/02/1951	4068	
+C484Bris	Penelope Jose Darren	23/02/1998	4079	
+C4850Bris	Clarence Zoma	8/07/1975	4018	
+C4854Bris	Hongtao Yek	30/05/2000	4045	
+C4855Bris	Su-Yee Hovelt	9/12/1951	4033	
+C4858Bris	Yani Qu	28/04/1957	4137	
+C485Bris	Arun Farn Darren	9/01/1989	4007	
+C4860Bris	Raymond Fu	13/01/1953	4067	
+C4861Bris	Vinoth Sie	16/04/1979	4056	
+C4863Bris	Mohd Chiat	10/08/1983	4097	
+C4866Bris	Ling Yusuf	24/10/1959	4068	
+C4867Bris	Natasha Lekha	28/09/1985	4131	
+C4868Bris	Claudia Schmidt	17/03/1960	4121	
+C4869Bris	Wu Fu	23/10/1956	4149	
+C4870Bris	Xiao Yin	15/12/1964	4069	
+C4872Bris	Tze Victor	17/01/1991	4120	
+C487Bris	Henni Michael Daswani	22/12/1952	4092	
+C4880Bris	Robert Nishimoto	18/08/1959	4063	
+C4884Bris	Mun Rivera	14/11/1955	4133	
+C4887Bris	Jiacheng Fernanda	24/01/1998	4153	
+C4888Bris	Anita Tong	25/07/1991	4124	
+C4889Bris	Ning Kim	11/07/1995	4009	
+C4890Bris	Renji Vainshtein	23/05/1962	4099	
+C4891Bris	Yue Le	27/03/2000	4149	
+C4892Bris	Huan Sasha	17/10/1951	4101	
+C4893Bris	Suong Vitti	18/04/1995	4061	
+C4895Bris	Muhammad Narang	14/03/1995	4084	
+C4896Bris	Christopher Dean	24/03/1964	4023	
+C4897Bris	Dharmapoetra Salinas	9/09/1995	4070	
+C48Bris	David Mark Annett	21/07/1995	4159	
+C4900Bris	Tou Lakshmi	14/06/1999	4154	
+C4903Bris	Shreyak Bergman	14/11/1997	4049	
+C4907Bris	Vonny Carolyn	19/03/1961	4134	
+C4908Bris	Elizabeth Ch'ien	26/09/1981	4023	
+C490Bris	Kwan Pham Daswani	21/09/1983	4113	
+C4911Bris	Xingyu Cottrell	6/03/1994	4075	
+C4913Bris	Chao Crosling	5/08/1992	4064	
+C4914Bris	Benny Subagio	1/12/1969	4146	
+C4916Bris	Jaime Wei	26/05/1951	4074	
+C4919Bris	Sumeet Keina	2/06/1991	4024	
+C491Bris	Nathalie Ahmed Daswani	28/05/1999	4132	
+C4920Bris	Yee Sun	9/02/1962	4014	
+C4921Bris	Hock Heng	25/04/1960	4051	
+C4922Bris	Liangxi Kaimakamis	2/06/1960	4157	
+C4923Bris	Rocio Ismail	23/01/1959	4136	
+C4925Bris	Yingshuang Yin	25/04/1986	4109	
+C492Bris	Nicholas William David	11/02/1993	4054	
+C4933Bris	Tatag Berlin	6/12/1957	4148	
+C4937Bris	Hendry Mohd	9/08/1962	4148	
+C493Bris	Limelda Lin David	29/09/1952	4131	
+C4940Bris	Chuyang Anh	29/04/1984	4094	
+C4941Bris	Chengyang Kee	13/05/1971	4014	
+C4942Bris	Jaratpon Mariola	13/09/1958	4049	
+C4943Bris	Rogine Rodney	31/01/1972	4108	
+C4944Bris	Craig Boon	11/01/1988	4148	
+C4945Bris	Vivek Hoa	2/10/1952	4017	
+C4946Bris	Lilly Charles	30/11/1985	4083	
+C4948Bris	Kathleen Leng	13/07/1973	4136	
+C4949Bris	Fang Luther	15/04/1967	4029	
+C494Bris	Chor Chen David	21/11/1954	4051	
+C4950Bris	Zheo Soerjono	19/04/1985	4100	
+C4953Bris	Tengteng Matthew	12/11/1960	4050	
+C4956Bris	Chris Birleson	8/08/1957	4157	
+C4960Bris	Daniel Halim	13/12/1992	4122	
+C4961Bris	Pushan Hesketh	13/02/1960	4126	
+C4964Bris	Debojyoti Halim	6/06/1961	4124	
+C4966Bris	Kai John	5/07/1955	4077	
+C4967Bris	Tomohito Hong	13/03/1999	4046	
+C4969Bris	Nga Kei	23/12/1984	4119	
+C496Bris	Peter Narang De	15/06/1973	4129	
+C4972Bris	Nishant Lakshmi	1/01/1953	4070	
+C4973Bris	Emily Ling	7/12/1972	4054	
+C4974Bris	Waleed Tjondro	3/09/1953	4110	
+C4975Bris	Szu-Yu Andrew	13/08/1960	4041	
+C4976Bris	Yenny Hng	17/06/1989	4126	
+C4978Bris	Wing Ye	4/02/1982	4126	
+C4986Bris	Dean Kei	3/07/1986	4037	
+C4990Bris	Rui Phuong	20/01/1951	4094	
+C4993Bris	Ching Ng	30/04/1959	4052	
+C4994Bris	Emine Nicholas	13/05/1994	4090	
+C4995Bris	Elizabeth Kian	30/04/1994	4051	
+C4996Bris	Ganglei Ho	31/07/1959	4107	
+C4997Bris	Dewi Julie	20/05/1961	4131	
+C4998Bris	Raymond Leng	23/10/1959	4043	
+C4999Bris	Eugene James	28/04/1955	4080	
+C49Bris	Alvina Chee Annette	28/01/1958	4137	
+C5001Bris	Huan Kian	11/12/1958	4124	
+C5002Bris	Denis Raso	10/01/1964	4034	
+C5003Bris	Renji Abdusebur	2/10/1985	4089	
+C5006Bris	Yuanxi Samarasekera	16/04/1979	4084	
+C5009Bris	Juan John	14/09/1997	4044	
+C5013Bris	Chang Tsomaropoulos	12/01/1957	4111	
+C5014Bris	Purwoko Heng	3/12/1959	4112	
+C5017Bris	Hanny Yoong	28/09/1952	4133	
+C5019Bris	Sherin Ee	15/06/1977	4091	
+C5020Bris	Christine Quang	9/08/1958	4048	
+C5022Bris	Sam Andrew	21/05/1975	4037	
+C5025Bris	Jenny Maratt	5/02/1993	4151	
+C5026Bris	Hsiao Lakshmi	13/04/1970	4051	
+C5027Bris	Dewi Yi	31/03/1969	4151	
+C5028Bris	Haliyusswanee Bello	24/07/1954	4071	
+C5029Bris	James Eddes	16/04/1977	4046	
+C5031Bris	Dinni Chin	8/11/1976	4151	
+C5039Bris	Winnie Phong	12/05/1993	4073	
+C543Bris	Evan Hun Dip	22/01/1959	4030	
+C544Bris	Yeuksze Liang Earle	11/01/1997	4011	
+C545Bris	Sam Suresh Dip	31/07/1955	4049	
+C547Bris	Mei Kalyanaraman Earle	7/03/1954	4003	
+C555Bris	Louise Wong Elton	10/06/1999	4059	
+C559Bris	Claudia Ng Dip	24/10/1996	4008	
+C55Bris	Kwet Kaur Annett	30/12/1978	4033	
+C562Bris	Denis Wu Elton	1/11/1981	4102	
+C563Bris	Tseu Keung D'Mello	13/05/1972	4048	
+C564Bris	Yani Li Eddes	14/03/2000	4139	
+C565Bris	Richard Wey Elton	8/05/1977	4095	
+C566Bris	Teng Lui D'Mello	26/04/1955	4103	
+C567Bris	Vincent Madra Eddes	30/03/1963	4150	
+C568Bris	Jim Luan Elton	23/02/1978	4091	
+C570Bris	David Lekha Dsouza	7/02/1955	4025	27/03/2018
+C570Bris	David Lekha Dsouza	18/04/1959	4063	
+C571Bris	Chieh Lee Eileen	1/03/1963	4129	
+C574Bris	Brendan Luwee Emily	23/10/1998	4132	
+C577Bris	Benjamin Chandler Emily	30/08/1962	4008	
+C581Bris	King Shen-Han Emily	21/06/1982	4150	
+C582Bris	Valentina Lee Dsouza	27/01/1954	4125	
+C585Bris	Chor Christian Eva	7/05/1958	4016	
+C587Bris	Haiyan Jose Ellen	16/03/1951	4019	
+C588Bris	Hendry Griffith Eva	2/09/1972	4098	
+C590Bris	Anne Singh Fai	15/07/1998	4075	
+C593Bris	Deepam Khoo Ellen	30/03/1957	4075	
+C594Bris	Hsiao Chan Fai	3/03/1951	4132	
+C595Bris	Mel Christopher Entwisle	13/01/1990	4124	
+C596Bris	Cheuk Yau Ellen	3/03/1953	4070	
+C597Bris	Jorge Roy Fai	14/08/1955	4038	
+C599Bris	Jie Li Fai	5/08/1976	4159	
+C59Bris	Herman Jamil Annett	14/05/1962	4002	
+C607Bris	Christine Akhmetjanova Eva	9/09/1982	4134	
+C60Bris	Hok Patricio Arango	4/07/1952	4104	
+C611Bris	Robert Kang Fang	19/06/1987	4064	
+C614Bris	Clarence Lin Farid	30/04/1974	4074	
+C615Bris	Yu Macnally Fan	7/03/1993	4077	
+C616Bris	Rhiannon Alihos Fan	15/04/1980	4046	
+C617Bris	Yue Itthianuwat Farid	14/11/1973	4135	
+C618Bris	Alex Jain Fan	1/01/1954	4027	
+C619Bris	Xueyang Sze Farid	11/04/1960	4031	
+C620Bris	Timothy Cameron Fan	27/08/1999	4157	
+C622Bris	Qi Bernadette Fan	17/06/1951	4043	
+C623Bris	Yue Elizabeth Fatima	8/04/1972	4043	
+C624Bris	Bo-Youn Nishimoto Fatima	3/10/1956	4136	
+C627Bris	Yuen Clare Fatima	13/08/1984	4084	
+C630Bris	Keat Schmidt Fatima	28/04/1984	4043	
+C634Bris	Cynthia Beng Ferradas	8/02/1962	4089	
+C635Bris	Li Paul Fong	28/11/1958	4003	
+C638Bris	Tristram Matthew Fong	5/08/1959	4036	
+C63Bris	Dean Liu Armansyah	12/07/1955	4070	
+C640Bris	Nouras Daniel Ferradas	18/01/1987	4055	
+C641Bris	Teck Palaniappan Fong	3/09/1963	4082	
+C643Bris	Sreenath Gordon Fong	15/04/1998	4091	
+C646Bris	Elisa Mena Foong	14/01/1961	4120	
+C647Bris	Matthew Chiu Florence	7/01/1955	4154	
+C648Bris	Md Tse Fong	26/08/1964	4103	
+C649Bris	Qorib Ahmed Forema	27/06/1951	4003	
+C650Bris	Chek Phung Florence	28/07/1965	4059	
+C652Bris	Yu Leong Forema	23/10/1951	4112	
+C65Bris	Nidah Errol Arthur	19/02/1957	4134	
+C660Bris	Hongtao Yiu Forema	26/02/1999	4024	
+C664Bris	Gonzalo Nhu Fong	6/06/1966	4156	
+C667Bris	Zhanibek Tan Foong	31/01/1997	4121	
+C668Bris	Li Salinas Foong	10/03/1951	4012	
+C669Bris	Qi Liang Fraser	25/01/1953	4091	
+C66Bris	Aleck Heng Arthur	6/09/1997	4142	
+C670Bris	Armando Fan Fung	5/10/1952	4142	
+C671Bris	Di Macnally Galarza	5/08/1954	4066	
+C672Bris	Serey Elizabeth Fraser	14/09/1952	4026	
+C673Bris	Phew Francisco Fraser	25/06/1984	4122	
+C675Bris	Privantha Heng Galarza	25/12/1968	4060	
+C676Bris	Rogine Hemant Fraser	17/05/1996	4155	
+C677Bris	Benjamin Joan Galarza	16/07/1978	4099	
+C680Bris	Nathalia She Fu	13/05/1977	4109	
+C683Bris	He Lin Gan	28/05/1987	4029	
+C687Bris	Cheryl Ting Fung	2/12/1986	4115	
+C688Bris	Ling Shen Gan	27/06/1979	4088	
+C68Bris	Yee Xu Arthur	31/10/1985	4065	
+C691Bris	Wael Yu Gelfand	30/11/1965	4032	
+C693Bris	Wing Brian Gan	11/03/1953	4104	
+C694Bris	David Phoa Gene	29/05/1985	4140	
+C696Bris	Gunawan Ilana Garg	4/12/1961	4069	
+C699Bris	Kuan-Yu Chew Gene	13/05/1966	4032	
+C6Bris	Yi James Aggarwal	4/11/1995	4064	
+C700Bris	Cary Shakespeare Gong	28/07/1961	4131	2/12/2017
+C700Bris	Cary Shakespeare Gong	28/07/1961	4099	
+C701Bris	Xianghong Ying Garg	13/09/1954	4082	
+C702Bris	Hok Bhandari Garg	5/04/1959	4073	
+C704Bris	Li Scott Garg	11/10/1969	4075	
+C712Bris	Hong Chua Gin	26/03/1988	4014	
+C716Bris	Bari Maria Gin	1/04/2000	4125	
+C719Bris	Nima Radcliffe Gin	11/03/1977	4076	
+C71Bris	Arun Leung Arthur	17/11/1976	4086	
+C720Bris	Irena Carrera Goh	15/04/1998	4115	
+C721Bris	Louisa Ellen Gin	17/11/1967	4059	
+C722Bris	Cho Stevens Goh	1/09/1997	4100	
+C723Bris	Mei Yenny Goh	26/10/1953	4101	
+C724Bris	Peijia Gregorius Goh	24/07/1988	4050	
+C725Bris	Stephen Louis Goh	27/08/2000	4035	
+C727Bris	Yusuf Yin Goh	14/03/1960	4111	
+C728Bris	Audrey Patricio Goi	29/12/1966	4109	
+C729Bris	Bree Tong Goh	29/12/1997	4016	
+C72Bris	Bo Kaur Arthur	7/02/2000	4048	
+C732Bris	Louisa Danbo Goldberg	18/08/1957	4099	
+C735Bris	Samant Anne Gomez	15/07/1980	4141	
+C739Bris	Li Zhou Granda	2/05/1955	4085	
+C73Bris	Xiaodan Ting Arthur	17/03/1977	4113	
+C740Bris	Yili Chiu Granda	19/07/1999	4146	
+C743Bris	Suong Moss Grattidge	14/01/1971	4091	
+C745Bris	I-Jane Wing Gray	2/01/1959	4014	
+C746Bris	Pearl Elizabeth Green	10/12/1954	4034	
+C748Bris	Ka Fitradi Green	14/01/1976	4097	
+C74Bris	Peng Stephens Arthur	8/10/1997	4139	
+C751Bris	Jacqueline Paul Gregorius	5/07/1974	4098	
+C752Bris	Simon Soni Griffith	1/04/1988	4038	
+C753Bris	Mun Cameron Griffith	18/07/1965	4082	
+C754Bris	Zheng Rodney Grinberg	14/11/1956	4014	
+C755Bris	Sherin Heng Grinberg	2/01/1993	4002	
+C757Bris	Kita Che-Ho Gutjahr	15/01/1994	4079	
+C75Bris	Andrew Daswani Arthur	9/11/1968	4005	
+C764Bris	Risa Ying Halim	5/04/1996	4023	
+C831Bris	Dinni Sun Ho	12/08/1962	4127	
+C832Bris	Sally Koay Ho	10/08/1987	4118	
+C833Bris	Leonard Chia Ho	15/03/1972	4138	
+C836Bris	Mun Chi-Nga Ho	9/11/1956	4088	
+C839Bris	Jeremy Pichumani Ho	26/04/1953	4086	
+C843Bris	Pik Lai Ho	25/09/1956	4112	
+C844Bris	Emily Elizabeth Ho	3/05/1957	4152	
+C847Bris	Yixin Li Ho	9/02/1954	4001	
+C849Bris	Matthew Taylor Ho	21/08/1963	4052	
+C84Bris	James Christopher Bai	25/04/1980	4058	
+C850Bris	Phillip Edward Hocking	12/10/1954	4019	
+C852Bris	Tianyi Devina Ho	21/10/1958	4078	
+C855Bris	Eka Hsia Ho	15/12/1987	4078	
+C856Bris	Kamia Yin Ho	2/07/1952	4072	
+C857Bris	Ricky Jiri Hodder	12/05/1956	4154	
+C858Bris	Kalyan Harutyunyan Ho	21/01/1949	4036	
+C859Bris	Weng Ng Hollingworth	24/03/1957	4087	
+C861Bris	Paul Brian Holmes	9/04/1952	4000	
+C869Bris	Jun Yuen Holmes	27/09/1955	4016	
+C873Bris	Peta Dian Holmes	25/11/1958	4016	
+C876Bris	Ting Ali Hope	21/01/1964	4009	
+C877Bris	Ka Khanna Hope	16/10/1969	4131	
+C878Bris	Weng Anthony Hope	9/04/1992	4068	
+C879Bris	Ming Au Hope	13/08/1986	4140	
+C880Bris	Shenn Wong Hope	24/11/1998	4122	
+C881Bris	Ka Huu Hope	20/06/1998	4047	
+C882Bris	Yu Zenon Hossain	17/02/1997	4029	
+C884Bris	Tiehua Caceres Hossain	14/07/1959	4102	
+C885Bris	Martin Pou Houghton	14/12/1948	4142	
+C886Bris	Chenguang Andrew Houghton	18/09/1974	4057	
+C889Bris	Anthony Wiltshire Hovelt	4/04/1991	4118	
+C88Bris	Peter Leung Bairstow	11/10/1981	4063	
+C892Bris	Mengxue Gerald How	22/09/1953	4075	
+C896Bris	Cary George Hsu	26/09/1954	4129	
+C897Bris	Stephen Widjaya Hsu	14/06/1983	4148	
+C900Bris	Jason Wilfrid Hsueh	27/12/1970	4018	
+C902Bris	Shreyak Kin Hu	28/09/1974	4011	
+C903Bris	Sang Wing Hu	1/10/1976	4005	
+C905Bris	Bin Cesar Hu	3/10/1965	4027	
+C908Bris	Kerry Anthony Hua	12/07/1953	4092	
+C909Bris	Robin Mecoles Huan	31/07/1997	4099	
+C910Bris	Mei Xu Huang	1/05/1960	4145	
+C911Bris	Dong Phoa Huang	25/03/1999	4103	
+C912Bris	Tze Matheu Hume	24/04/1955	4092	
+C914Bris	Cheuk Salim Hume	15/09/1995	4111	
+C91Bris	Weijia Afizi Balgovind	4/11/1955	4132	
+C922Bris	Chih-En Ho Hussain	16/10/2000	4063	
+C926Bris	Arun Sia Irawan	28/05/1992	4054	
+C929Bris	Tatag Zhang Iskander	14/08/1957	4118	
+C92Bris	Chee Ho Balgovind	9/06/1958	4085	
+C930Bris	Mohd Himanshu Iskander	23/05/1981	4144	
+C931Bris	Shangzhen Fitradi Iaroslavski	19/01/1976	4079	
+C932Bris	Jennifer Leong Iskander	6/02/2000	4010	
+C933Bris	Jinming James Iaroslavski	8/08/1973	4143	
+C934Bris	Angel Ling In	25/06/1982	4086	
+C935Bris	Herman Devidas Iskander	2/09/1989	4075	
+C937Bris	Urmila Kuang-Fu Iskander	15/07/1962	4070	
+C938Bris	Maithm Soon In	18/07/1986	4062	
+C939Bris	Sok Leong Iskander	7/11/1954	4000	
+C93Bris	Eric Ling Balgovind	29/08/1954	4117	
+C942Bris	David Tjio Jacky	25/04/1960	4105	
+C945Bris	Hock Isabel Jacky	26/02/1997	4147	
+C949Bris	Marcus Haq James	21/10/1983	4044	
+C94Bris	Yunlong Chan Bansal	1/11/1980	4111	
+C950Bris	Penelope Shaker Jani	13/11/2000	4017	
+C953Bris	Jono Ang Jani	8/12/1986	4133	
+C955Bris	Robert Tjondro Jarvis	29/11/1991	4078	
+C956Bris	Haliyusswanee Matthew Ji	21/06/1998	4006	
+C958Bris	Sarah Robertson Ji	14/05/1969	4106	
+C95Bris	Mark Suliman Bansal	23/12/1973	4116	
+C961Bris	Serey Tokura Ji	8/08/1995	4027	
+C962Bris	Gustavo Wilfrid Jia	13/01/1961	4069	
+C963Bris	Gunawan Lok Jia	12/04/1959	4079	
+C964Bris	Bill Junior Jia	26/12/1999	4025	
+C965Bris	Kevin Afizi Jia	10/10/1996	4000	
+C967Bris	Kian Vipinchandra Jia	20/10/1960	4140	
+C96Bris	Tze Dewi Bansal	25/10/1957	4148	
+C975Bris	Melissa Chan Johnstone	27/05/1958	4098	
+C979Bris	Kandeepan Du Jonathan	7/06/1965	4038	
+C97Bris	Hooi-Ling Kit Bao	11/11/2000	4141	
+C982Bris	Ching Ng Juliana	26/05/1963	4123	
+C983Bris	Denis Deng Jonathan	13/12/1999	4063	
+C984Bris	Teck Arjun Jones	27/02/1951	4002	
+C985Bris	Yu Fabricio Juliana	8/02/1966	4024	
+C986Bris	Li Nicholas Jones	11/02/1959	4077	
+C987Bris	Rhiannon Chek Juliana	3/08/1979	4089	
+C988Bris	Anjan Ng Jones	25/09/1968	4026	
+C990Bris	Anna Sarll Jones	2/05/1953	4041	
+C991Bris	Phew Chi Jun	19/06/1994	4023	
+C992Bris	Jeffrey Luo Jun	21/06/1999	4034	
+C995Bris	Bo-Youn Siok Jun	27/12/1959	4041	
+C998Bris	Waleed Chan K	13/01/1964	4062	
+C99Bris	Richard Shahir Baohm	20/02/1960	4027	
